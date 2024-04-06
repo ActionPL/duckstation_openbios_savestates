@@ -1,0 +1,1 @@
+Starts on the Exhibition Match screen with the "1P VS 2P" option highlighted
