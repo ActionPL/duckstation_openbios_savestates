@@ -10,7 +10,7 @@ By the way, if you have a useful save, I strongly recommend you to also support 
 
 * Use the latest revision of the game for the savestate **(if there is a valid reason to do otherwise - describe it)**.
 * Both controllers need to be enabled, on digital mode (NOT analog).
-* the game used to create the savestate has to be in the CHD file format **(and its filename must be "<GAME-ID000>.chd")**.
+* the game used to create the savestate has to be in the CHD file format **(and its filename must be named "GAME-ID000.chd")**.
 * the game has to be located in a folder called "ROMs" which is in the same directory as the duckstation executable this can be done like this in your settings.ini file.
 <p align="left">
 <img src="https://user-images.githubusercontent.com/45072324/231890877-ba54332f-f6e2-4753-8e7d-42fcde509e01.png"/>
