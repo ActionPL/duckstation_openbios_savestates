@@ -13,7 +13,7 @@ By the way, if you have a useful save, I strongly recommend you to also support 
 * the game used to create the savestate has to be in the CHD file format **(and its filename must be named "GAME-ID000.chd")**.
 * the game has to be located in a folder called "ROMs" which is in the same directory as the duckstation executable this can be done like this in your settings.ini file.
 
-![image](../content/recursive_paths.png)
+![image](./content/recursive_paths.png)
 
 * There can only be one recursive path entry. Duckstation will automatically generate this .ini file on first launch. **Check** ~~Edit~~ it AFTER you launch for the first time, and remove/replace any prior entries for `RecursivePaths` **if necessary**.
 
@@ -29,7 +29,7 @@ By the way, if you have a useful save, I strongly recommend you to also support 
 
 
 
-![image](../content/tree.png)
+![image](./content/tree.png)
 
 Any questions? Official Discord channel and support: [Honmaru][5]
 
