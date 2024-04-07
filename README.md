@@ -18,7 +18,7 @@ By the way, if you have a useful save, I strongly recommend you to also support 
 
 * There can only be one recursive path entry. Duckstation will automatically generate this .ini file on first launch. **Check** ~~Edit~~ it AFTER you launch for the first time, and remove/replace any prior entries for RecursivePaths **if necessary**.
 
-* Savestates MUST be created with the ~~SCPH-7000W~~ **[Open][2]** bios **(version 20240109)**.
+* Savestates MUST be created with the ~~SCPH-7000W~~ **[Open bios (version 20240109)][2]**.
 
 * A [MD5 file][4] hash of the game should be supplied within the ~~Issue~~ **README.md file in in the right savestate folder**.
 
