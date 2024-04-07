@@ -27,9 +27,10 @@ By the way, if you have a useful save, I strongly recommend you to also support 
 
 * A fitting description of the savestate. what does it unlock? at which screen does it start? etc.
 
-
+<h2>An example of a correct directory tree with the location of savestates, bios, and the game itself<h2>
 
 ![image](./content/tree.png)
+
 
 Any questions? Official Discord channel and support: [Honmaru][5]
 
