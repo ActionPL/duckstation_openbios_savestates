@@ -32,8 +32,7 @@ By the way, if you have a useful save, I strongly recommend you to also support 
 ![image](./content/tree.png)
 
 
-<h3>Any questions? Official Discord channel and support: [Honmaru][5]</h3>
-
+Any questions? Official Discord channel and support: [Honmaru][5]
 
 [1]: https://www.honmaru.pl/en/arkadyzja/
 [2]: https://github.com/grumpycoders/pcsx-redux/tree/main/src/mips/openbios
