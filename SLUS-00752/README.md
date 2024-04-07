@@ -1,0 +1,34 @@
+**Game name:**
+
+Thrill Kill (USA) (Beta)
+
+**Game ID:**
+
+SLUS-00752
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD MD5: 8f0767041bd8dfb2ae939ad4033bed73
+
+BIN (TRACK 01) MD5: 9f23ca2d291a31d7a71b17699bb6fa24
+BIN (TRACK 02) MD5: 5895edbaa0df3929b9114174fdfb3ee7
+BIN (TRACK 03) MD5: 451479d9ae7927f0d085e0799b6212e4
+BIN (TRACK 04) MD5: 0f50b16ed406e3731887e9f2c7bdb329
+BIN (TRACK 05) MD5: 702c97477bd4a0e5f156c1b83e9ae596
+BIN (TRACK 06) MD5: a0db308fb32feb6c417e1ef8a9cc0146
+BIN (TRACK 07) MD5: eb829402533b1f50311117d8889e05c4
+BIN (TRACK 08) MD5: 73c0adb6a5a0c89a837c271973dccdbd
+BIN (TRACK 09) MD5: 9bea86935fe3a3752a7a2455cfc8cfa6
+BIN (TRACK 10) MD5: f81e422dda5b01898de513349d1f48e7
+BIN (TRACK 11) MD5: 63865739b6b7764fa1062dda47729f2d
+BIN (TRACK 12) MD5: 65cedeaf9fe889a1ba5824b24db2d2f5
+BIN (TRACK 13) MD5: b1bc6d6c571666276e6ee0c4af549778
+
+
+**Description:**
+
+All characters, arenas, outfits and movies unlocked. Starts at main menu with "VERSUS MODE" highlighted.
