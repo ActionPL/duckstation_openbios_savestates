@@ -16,7 +16,7 @@ By the way, if you have a useful save, I strongly recommend you to also support 
 <img src="https://user-images.githubusercontent.com/45072324/231890877-ba54332f-f6e2-4753-8e7d-42fcde509e01.png"/>
 </p>
 
-* There can only be one recursive path entry. Duckstation will automatically generate this .ini file on first launch. **Check** ~~Edit~~ it AFTER you launch for the first time, and remove/replace any prior entries for RecursivePaths **if necessary**.
+* There can only be one recursive path entry. Duckstation will automatically generate this .ini file on first launch. **Check** ~~Edit~~ it AFTER you launch for the first time, and remove/replace any prior entries for `RecursivePaths` **if necessary**.
 
 * Savestates MUST be created with the ~~SCPH-7000W~~ **[OpenBios (version 20240109)][2]**.
 
