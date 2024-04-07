@@ -1,4 +1,4 @@
-<h1>This Ropository has one goal. Which is to create a Savestates database for Arkadyzja!</h1>
+<h1>This Ropository has one goal. Create a savestates database for Arkadyzja!</h1>
 
 Savestates for [Arkadyzja][1] are created in almost the same way as those for use by Fightcade - with the main difference being that the emulator uses [OpenBios from PCSX-Redux Team][2] .
 
@@ -7,6 +7,7 @@ Therefore, let me quote the requirements from [HeatXD repository][3], marking th
 By the way, if you have a useful save, I strongly recommend you to also support a [Fightcade repository][3]!
 
 <h2>Requirements</h2>
+
 * Use the latest revision of the game for the savestate **(if there is a valid reason to do otherwise - describe it)**.
 * Both controllers need to be enabled, on digital mode (NOT analog).
 * the game used to create the savestate has to be in the CHD file format **(and its filename must be "<GAME-ID000>.chd")**.
