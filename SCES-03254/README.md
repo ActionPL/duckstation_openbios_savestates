@@ -1,6 +1,6 @@
 **Game name:**
 
-Liberogrande International (Europe) (En,Fr,De,Es,It)
+Liberogrande International (Europe) (En,Fr,De,Es,It)s
 
 **Game ID:**
 
