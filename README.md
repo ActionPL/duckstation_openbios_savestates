@@ -20,7 +20,7 @@ By the way, if you have a useful save, I strongly recommend you to also support 
 
 * Savestates MUST be created with the ~~SCPH-7000W~~ **[OpenBios (version 20240109)][2]**.
 
-* A [MD5 file][4] hash of the game should be supplied within the ~~Issue~~ **README.md file in in the right savestate folder**.
+* A [MD5 file hash][4] of the game should be supplied within the ~~Issue~~ **README.md file in in the right savestate folder**.
 
 * Savestates should be verified to be working on the current ~~fightcade~~ **[Arkadyzja][1]** build.
 
