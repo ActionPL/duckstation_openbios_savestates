@@ -1,0 +1,47 @@
+**Game name:**
+
+Battle Arena Toshinden (USA)
+
+**Game ID:**
+
+SCUS-94003
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD MD5: 7403ebfe2721b57b04f2f5ef1de4614e
+
+BIN (TRACK 01) MD5: 70b362b3b09d0a3c3999ce9f055620e6
+
+BIN (TRACK 02) MD5: 469c7546a41167dbf4cf9a3acff70a2c
+
+BIN (TRACK 03) MD5: ac1f688d16d8964dc1f67f1c78b1994e
+
+BIN (TRACK 04) MD5: e8413cff968e8048cf780d5c1a81ad85
+
+BIN (TRACK 05) MD5: 0c3c6772aba6bbc8925510d503f52fae
+
+BIN (TRACK 06) MD5: 7b9a0dc66931d2986b12041e2f473016
+
+BIN (TRACK 07) MD5: 22380a92d81329808e47481ddebcc1fd
+
+BIN (TRACK 08) MD5: 189981738cabd0baa05453d19b1ec565
+
+BIN (TRACK 09) MD5: 02c36956d3d15c24b90fd27825cec193
+
+BIN (TRACK 10) MD5: 6a24d0617b969312895b092de57978b0
+
+BIN (TRACK 11) MD5: 654033feb343c031b6a2fcf8ddd42abd
+
+BIN (TRACK 12) MD5: 1f459277982206a2c57b903092e6b4e2
+
+BIN (TRACK 13) MD5: 2c0376c2568a28aeb71a3e1df6d63c65
+
+BIN (TRACK 14) MD5: 6032f9c01c258c94b5847ee1441458ae
+
+**Description:**
+
+Characters Sho and Gaia unlocked. Options set: 3 rounds per fight, 60 seconds per round. Starts at main menu with "VS HUMAN" option highlighted. 
