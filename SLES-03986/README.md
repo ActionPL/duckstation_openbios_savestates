@@ -1,0 +1,43 @@
+**Game name:**
+
+CT Special Forces (Europe) (En,Fr,De,Es,It,Nl)
+
+**Game ID:**
+
+SLES-03986
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD MD5: 530b8d0caf99c6d79a046b9a91383f03
+
+BIN (TRACK 01) MD5: c026f9d110d8581c475b7db5e755d03e
+
+BIN (TRACK 02) MD5: 50cd5127532e35fd5fdef685859ce902
+
+BIN (TRACK 03) MD5: 2d359197d16d9a9a54d9ef21b6229e09
+
+BIN (TRACK 04) MD5: dff03febccab74f89014a9fba02f2f27
+
+BIN (TRACK 05) MD5: efdbe29446d7d541e0f83aa8cc2b08e6
+
+BIN (TRACK 06) MD5: 6b0284651f9fcaa4d6004e03a9428b2b
+
+BIN (TRACK 07) MD5: 30f00eb4e6ff3c785d0f38512837e528
+
+BIN (TRACK 08) MD5: 7ede5cab3cab5aad2f70c299dca24c74
+
+BIN (TRACK 09) MD5: 482d053b3e0c55739a8dff51f827091b
+
+BIN (TRACK 10) MD5: 6dc8cb65f4a374ab03f759430e957df7
+
+BIN (TRACK 11) MD5: 054c6915a92e41599289d84fa9cf6c12
+
+BIN (TRACK 12) MD5: 119618cbb9ee8805e4b306ea83ba3158
+
+**Description:**
+
+Starts at main menu with "Co-operative mode" highlighted.
