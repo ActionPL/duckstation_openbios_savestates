@@ -1,6 +1,6 @@
 **Game name:**
 
-Gran Turismo 2 (USA) (Arcade Mode)
+Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)
 
 **Game ID:**
 
