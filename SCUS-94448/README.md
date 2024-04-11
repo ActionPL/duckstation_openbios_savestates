@@ -18,4 +18,4 @@ BIN MD5: c5b047642aac6bd414dffce52909a940
 
 **Description:**
 
-All levels unlocked. Start at "STAGE SELECT" option highlighted.
+All levels unlocked. Starts at "STAGE SELECT" option highlighted.
