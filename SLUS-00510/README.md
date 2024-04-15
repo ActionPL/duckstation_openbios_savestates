@@ -1,0 +1,45 @@
+**Game name:**
+
+Vigilante 8 (USA) (Rev 1)
+
+**Game ID:**
+
+SLUS-00510
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD MD5: decbf9f2e4801e698059f5c920b1f212
+
+BIN (TRACK 01) MD5: ad68d68ef84414ea4b475eadb9039982
+
+BIN (TRACK 02) MD5: 44c0b441e93028421abf2526c85bccd4
+
+BIN (TRACK 03) MD5: 385de6b5ce5a622919984e7f56a87892
+
+BIN (TRACK 04) MD5: 5c6f837fbd002daf5a6b1f25366d72de
+
+BIN (TRACK 05) MD5: ce7cf342f07a07060e934c2e44555400
+
+BIN (TRACK 06) MD5: 47110a5deda70f10389abbc76bbcdd92
+
+BIN (TRACK 07) MD5: e16391abe9be4d5e81965dc4da6eaca9
+
+BIN (TRACK 08) MD5: 6e68d86d7e50bae74231701fef207f42
+
+BIN (TRACK 09) MD5: d17792bf1b917559fcb309098ffab5d7
+
+BIN (TRACK 10) MD5: 80906ce0cfd25e037608cab0d3a95889
+
+BIN (TRACK 11) MD5: 126d892d8c1f10cd35293f891b5d71b7
+
+BIN (TRACK 12) MD5: 3428cdbcfd34f7b2cc7368f6f2390f10
+
+BIN (TRACK 13) MD5: 3b36258f6d4d9baade581ed3017effee
+
+**Description:**
+
+All cars, tracks and secrets unlocked. Starts in 2 PLAYER mode with "VERSUS" option highlighted.
