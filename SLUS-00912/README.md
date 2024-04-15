@@ -1,0 +1,45 @@
+**Game name:**
+
+Destruction Derby Raw (USA)
+
+**Game ID:**
+
+SLUS-00912
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD MD5: ceefd26e9272f3b65620efb98dedecdb
+
+BIN (TRACK 01) MD5: 04fcfee8157a995e7f643ea71e962fe1
+
+BIN (TRACK 02) MD5: ad24de8bbb40795d97b76a344962f58a
+
+BIN (TRACK 03) MD5: 5de2753366d6f6ec5dc9d736eb5b23e1
+
+BIN (TRACK 04) MD5: 94015f72627252a568b3baad4f1bc85b
+
+BIN (TRACK 05) MD5: a3083ee927acfcdf5a3cb2974ec222df
+
+BIN (TRACK 06) MD5: 3ccc73566be33f188b2ae6b472baa2b7
+
+BIN (TRACK 07) MD5: 75308294c150dee31a70e84d6e13d798
+
+BIN (TRACK 08) MD5: c6a3134ff789b8ec7f4ad1a01e882c61
+
+BIN (TRACK 09) MD5: 9cd51b0469b0459068f3a2924e35d042
+
+BIN (TRACK 10) MD5: 6d3ec75966907431d766e6b37914a072
+
+BIN (TRACK 11) MD5: a217fab3aacf8cdc520d4ecedc0d777d
+
+BIN (TRACK 12) MD5: e43d969dd150b60ceb59baeb1f3411f6
+
+BIN (TRACK 13) MD5: 369ff3006396bbca8d9a1fb9cc125af9
+
+**Description:**
+
+All cars unlocked. Starts at main menu with "BATTLE" option highlighted.
