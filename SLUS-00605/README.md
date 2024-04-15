@@ -18,4 +18,4 @@ BIN MD5: 3c3ddcb5d2fe38070fc53f556769dd4a
 
 **Description:**
 
-Starts at main menu with "ARCADE" option highlighted.
+Rounds: 3. Starts at main menu with "ARCADE" option highlighted.
