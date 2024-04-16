@@ -1,0 +1,23 @@
+**Game name:**
+
+Colin McRae Rally 2.0 (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-01222
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD MD5: 466b6924dfe8a7c5eb6ce0da49e82a38
+
+BIN (TRACK 01) MD5: 3fd9c72a3d4bafef12e78bf4bd61b5d1
+
+BIN (TRACK 02) MD5: 441eeb4204aafc104bf1863b743a13a2
+
+**Description:**
+
+Starts at main menu with "arcade" option highlighted.
