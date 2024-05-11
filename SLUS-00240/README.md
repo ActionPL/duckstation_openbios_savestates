@@ -1,6 +1,6 @@
 **Game name:**
 
-Soul Blade (USA)
+Soul Blade (USA) (Rev 1)
 
 **Game ID:**
 
@@ -12,9 +12,9 @@ CHD
 
 **Hash:**
 
-CHD MD5: 94f702747b3f201ef2661e654e7d38ce
+CHD MD5: 7a6c9f9ece26072045f1a53ce2c142d1
 
-BIN MD5: 9ee91a4e0d228d2c78a254a01663274b
+BIN MD5: 055175fbf6e6e48caea1fad0664f42af
 
 **Description:**
 
