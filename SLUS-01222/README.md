@@ -20,4 +20,4 @@ BIN (TRACK 02) MD5: 441eeb4204aafc104bf1863b743a13a2
 
 **Description:**
 
-Starts at main menu with "arcade" option highlighted.
+All cars and tracks unlocked. Starts at main menu with "arcade" option highlighted.
