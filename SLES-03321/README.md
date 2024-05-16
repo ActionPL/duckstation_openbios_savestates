@@ -40,4 +40,4 @@ BIN (TRACK 12) MD5: 400973ea8a624eaa1714d025869048f1
 
 **Description:**
 
-All teams unlocked and all player's names correct. Starts at Match Mode with "Exhibiition" option highlighted.
+All teams unlocked and all player's names correct. Starts at Match Mode with "Exhibition" option highlighted.
