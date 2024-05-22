@@ -4,7 +4,7 @@ World Soccer Winning Eleven 2002 (Japan) [PasionWE Genesis 2024 Beta]
 
 **Game ID:**
 
-WEMR-00000
+WEMR-00001
 
 **Game format:**
 
@@ -12,9 +12,9 @@ CHD
 
 **Hash:**
 
-CHD MD5: 0c31a83b1753cc5dbbed51b94310a06d
+CHD MD5: 68b4dd3130aaac27e743190f9fd471c7
 
-BIN (TRACK 01) MD5: 0f4f3d8077c1589253c1ee66158e6a81
+BIN (TRACK 01) MD5: daaa9f4e423133407ab4d0f40613b3eb
 
 BIN (TRACK 02) MD5: 2b68605086c9ec4d03f82bfd0fb3e3a2
 
@@ -34,4 +34,4 @@ BIN (TRACK 09) MD5: d175f42798341c02b6e1fb117b01d327
 
 **Description:**
 
-Starts at main menu with "MATCH" option highlighted.
+Starts in MATCH mode with "EXHIBITION" option highlighted.
