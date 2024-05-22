@@ -1,6 +1,6 @@
 **Game name:**
 
-World Soccer Winning Eleven 2002 (Japan) [PasionWE Genesis 2024 Beta]
+World Soccer Winning Eleven 2002 (Japan) [PasionWE Genesis 2024]
 
 **Game ID:**
 
