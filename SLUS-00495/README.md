@@ -1,6 +1,6 @@
 **Game name:**
 
-WWF War Zone (USA)
+WWF War Zone (USA) (Rev 1)
 
 **Game ID:**
 
@@ -12,9 +12,9 @@ CHD
 
 **Hash:**
 
-CHD MD5: f06c5bce1528c55458acbd5c0786ccd4
+CHD MD5: 56e8edc51fa1fc69979941d7e1f9aa0a
 
-BIN (TRACK 01) MD5: 3888edef45bc637fbdeba6d3d7370f8c
+BIN (TRACK 01) MD5: 079eb92dc140978722335d7209e2506a
 
 BIN (TRACK 02) MD5: 88aa16698a904e9841f2279a4e9beb23
 
