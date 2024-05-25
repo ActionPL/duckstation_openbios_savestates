@@ -18,4 +18,4 @@ BIN MD5: 9917d611ea151da8e12c75afac84cf07
 
 **Description:**
 
-Starts at main menu with "VERSUS RACE" option highlighted.
+All tracks and car sets unlocked. Starts at main menu with "VERSUS RACE" option highlighted.
