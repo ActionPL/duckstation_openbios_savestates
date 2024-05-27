@@ -1,10 +1,10 @@
 **Game name:**
 
-Sexy Parodius (Japan)
+World Soccer Jikkyou Winning Eleven 4 (Japan)
 
 **Game ID:**
 
-SLPM-86009
+SPLM-86291
 
 **Game format:**
 
@@ -18,4 +18,4 @@ BIN MD5: 44260730724a19e1889a06bd06fc3bdb
 
 **Description:**
 
-All special levels unlocked. Starts at "2 PLAYERS" option highlighted.
+All NAME PLAYERS TRADUCIDO
