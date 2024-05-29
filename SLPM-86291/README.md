@@ -1,6 +1,6 @@
 **Game name:**
 
-World Soccer Jikkyou Winning Eleven 4 (Japan)
+World Soccer Jikkyou Winning Eleven 4 (Japan) (Rev 1)
 
 **Game ID:**
 
