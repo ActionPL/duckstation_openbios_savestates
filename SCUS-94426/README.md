@@ -1,6 +1,6 @@
 **Game name:**
 
-CTR - Crash Team Racing (USA) [OnlineCTR v04.06.24]
+CTR - Crash Team Racing (USA) [OnlineCTR v05.06.24]
 
 **Game ID:**
 
@@ -12,9 +12,9 @@ BIN
 
 **Hash:**
 
-OnlineCTR [60FPS] BIN MD5: ea8b9468dbfc6e4511793691b38b214b
+OnlineCTR [60FPS] BIN MD5: e1e6f7b48f60ef36816e15be0a113ec6
 
-OnlineCTR [30FPS] BIN MD5: dd2b2cf18b684436d24760e61736785a
+OnlineCTR [30FPS] BIN MD5: 7f852ae79a17f0801af7c93d03b449e2
 
 Original BIN MD5: ab95bfca8a4bb3d90daa6519acf6e944
 
