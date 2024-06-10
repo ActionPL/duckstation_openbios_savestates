@@ -44,4 +44,4 @@ BIN (TRACK 14) MD5: cecf1db7cf5a258ae34c2ae23bf0d546
 
 **Description:**
 
-Everything unlocked. Starts in main menu with "Versus Mode" option highlighted.
+Everything unlocked. Rounds: 3, Time: 60 seconds. Starts in main menu with "Versus Mode" option highlighted.
