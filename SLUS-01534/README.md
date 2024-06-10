@@ -18,4 +18,4 @@ BIN MD5: 6819604da356f97dda706a85fc3c57e8
 
 **Description:**
 
-Starts at main menu with "Versus Fairy Tale" option highlighted.
+Everything unlocked. Rounds: 3, Time: 60 seconds. Starts at main menu with "Versus Fairy Tale" option highlighted.
