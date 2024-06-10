@@ -18,4 +18,4 @@ BIN MD5: 76beb62f815a6f2ac24462a2d925a81d
 
 **Description:**
 
-Starts in VERSUS mode with "VS, TWO PLAYERS" option highlighted.
+All characters and Time Attack Mode unlocked. Starts in VERSUS mode with "VS, TWO PLAYERS" option highlighted.
