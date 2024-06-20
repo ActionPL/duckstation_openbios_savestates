@@ -4,7 +4,7 @@ Digimon Rumble Arena (USA) [True OG Edition]
 
 **Game ID:**
 
-DTOG-00001
+DTOG-01404
 
 **Game format:**
 
@@ -12,9 +12,9 @@ CHD
 
 **Hash:**
 
-CHD MD5: F2FF470C64C1A448474388AA7C6219F3
+CHD MD5: b2aeadd3c96474b6d78daaac19efa69d
 
-Patched BIN MD5: 1F52E29AA462589B5A3EC244B499EF56
+BIN MD5: ad4c933a56f37277b47f9980287c0ecb
 
 **Description:**
 
