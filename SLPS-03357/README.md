@@ -1,6 +1,6 @@
 **Game name:**
 
-Digimon Tamers Battle Evolution (Japan)
+DigimonTamers - Battle Evolution (Japan)
 
 **Game ID:**
 
@@ -12,7 +12,9 @@ CHD
 
 **Hash:**
 
-CHD MD5: DEB1ED4BD95647589BD2CDC8531649E9
+CHD MD5: deb1ed4bd95647589bd2cdc8531649e9
+
+BIN MD5: 0387534dcd7220117d22494272748960
 
 **Description:**
 
