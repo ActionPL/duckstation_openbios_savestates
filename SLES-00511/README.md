@@ -1,22 +1,21 @@
-Game name:
+**Game name:**
 
 International Superstar Soccer Deluxe (Europe)
 
-Game ID:
+**Game ID:**
 
 SLES-00511
 
-Game format:
+**Game format:**
 
 CHD
 
-Hash:
+**Hash:**
 
-CHD MD5: aa9d1c5611e32df04fc5adbd870c60d5
+CHD MD5: 31ef32eda6fd72664f6fea07688a3f53
 
 BIN MD5: 952cd219e13ca39dba4097d5249590d6
 
-Description:
-
+**Description:**
 
 All Stars Teams unlocked, Start in Open Game (Two Players ready).
