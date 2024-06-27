@@ -1,21 +1,23 @@
-Game name:
+**Game name:**
 
 Hokuto no Ken - Seikimatsu Kyuuseishu Densetsu (Japan)
 
-Game ID:
+**Game ID:**
 
 SLPS-02993
 
-Game format:
+**Game format:**
 
 CHD
 
-Hash:
+**Hash:**
 
-CHD MD5: 2a1f3a5bf575ddb526e34e84faf3a71d
+CHD MD5: 6cb5321eed8a91e0c89823fe0941d3a1
 
-BIN MD5: cf540d21606b39af23c34ca97b154fd5
+BIN (TRACK 01) MD5: 08665db1bad0d01d9bce03e13eab05bb
 
-Description:
+BIN (TRACK 02) MD5: 2d7b5e8e94a91bf5423b2356f6a34863
+
+**Description:**
 
 All Characters and Secret Bonus Mode unlocked, Start in Versus Mode.
