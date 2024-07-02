@@ -12,7 +12,7 @@ CHD
 
 **Hash:**
 
-CHD MD5: e0c99e7988cde6e02aaec66a6a7c93bb
+CHD DATA SHA1: 41bddcd5cccb9b48f98a48621530b3df69ecdcfe
 
 BIN (TRACK 01) MD5: 8259e28a84f48af7dbb974b1dcaef6f4
 
