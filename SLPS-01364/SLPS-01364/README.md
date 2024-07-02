@@ -1,0 +1,43 @@
+**Game name:**
+
+DoDonPachi (Japan) (Rev 1)
+
+**Game ID:**
+
+SLPS-01364
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: f8062a733c7cc498506fb4dd210efdee135aa8a5
+
+BIN (TRACK 01) MD5: 3a6a8bcb527cbc3c51092129d18ff7a8
+
+BIN (TRACK 02) MD5: a2896e09f4446dcfab184cdd78a41669
+
+BIN (TRACK 03) MD5: 43889282339b866f836d6bb9c39caff1
+
+BIN (TRACK 04) MD5: 26eac0bd0171be0b40744a91130c74fb
+
+BIN (TRACK 05) MD5: faaed44af8b28bedff9be6841f5845ec
+
+BIN (TRACK 06) MD5: d92373ac3e677ddeb8dd8c648e088a15
+
+BIN (TRACK 07) MD5: 96b61878dbcd4404a7f86947b37e06c0
+
+BIN (TRACK 08) MD5: a5db60e8eae266c63475250c2781d440
+
+BIN (TRACK 09) MD5: 8498eb0efca1547219e832e3f8ae97c8
+
+BIN (TRACK 10) MD5: 0cc36fd7053bf04713b00d80a3221d67
+
+BIN (TRACK 11) MD5: ea12e97aa1f178195d3355983083fe6e
+
+BIN (TRACK 12) MD5: 65aea234c174ee35fb574d981fe3fc4f
+
+**Description:**
+
+Starts at main menu with "GAME START" option highlighted.
