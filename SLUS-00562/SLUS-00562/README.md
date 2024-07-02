@@ -1,0 +1,53 @@
+**Game name:**
+
+Star Wars - Masters of Teras Kasi (USA)
+
+**Game ID:**
+
+SLUS-00562
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: deabb6b39e8857cdbbaacbd72cb0e26646183a63
+
+BIN (TRACK 01) MD5: 8df14d97706048c2b795942783e4cbb2
+
+BIN (TRACK 02) MD5: 0f484825f8ebac056dadac9acf483048
+
+BIN (TRACK 03) MD5: beeff62e033c3ab3b8f8c610f7cc0e65
+
+BIN (TRACK 04) MD5: 5caae0968b80020ff0719a98d766e943
+
+BIN (TRACK 05) MD5: 43daf454c0a3663c225bebe388e961a3
+
+BIN (TRACK 06) MD5: c393de51fc929f670fe506d64501580e
+
+BIN (TRACK 07) MD5: 4c9ce6636c6411895e8a3ccc6bde696f
+
+BIN (TRACK 08) MD5: 0885d9b0684bc549566e06f39a569cdd
+
+BIN (TRACK 09) MD5: 86433d9811b8c2046a8d51a8ac052568
+
+BIN (TRACK 10) MD5: 3110ab5da2b5041db995da55bec957ec
+
+BIN (TRACK 11) MD5: bc4ec32d14d988cdb41dc4d7e21ec610
+
+BIN (TRACK 12) MD5: 50b5eac66ca8ec4186b6b1bc21d94361
+
+BIN (TRACK 13) MD5: 722dc049507e273ad5143cd16e6e92db
+
+BIN (TRACK 14) MD5: 39a4ce7da953378a70b86318ef0cdf33
+
+BIN (TRACK 15) MD5: 82e447c63465f0d934f3464c6b43456f
+
+BIN (TRACK 16) MD5: 807f184fb34a62fe17f4c07ddbeb8b52
+
+BIN (TRACK 17) MD5: 315decdb99687c11787ebe8c6015fb94
+
+**Description:**
+
+All characters unlocked. Rounds: 3, Time: 60 seconds. Starts in main menu with "VS Mode" option highlighted.
