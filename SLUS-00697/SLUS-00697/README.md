@@ -1,0 +1,37 @@
+**Game name:**
+
+Circuit Breakers (USA)
+
+**Game ID:**
+
+SLUS-00697
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: cfddcca611842ad42a765f1469a009fe12923747
+
+BIN (TRACK 01) MD5: 704a56d365b7cfcad9d243fce22c7066
+
+BIN (TRACK 02) MD5: a3e027a1ca3bccda3b1a0b502968a808
+
+BIN (TRACK 03) MD5: 56c7d21a75e291808b74719560462bb9
+
+BIN (TRACK 04) MD5: 0bd5175fb441b1cd425af70f8e6cc869
+
+BIN (TRACK 05) MD5: 397c62d2f90eb27881ea2de70429c2de
+
+BIN (TRACK 06) MD5: 8ca2f4835e0e48e9899fa9532f910f32
+
+BIN (TRACK 07) MD5: 4a17462e9ebb4e8d4f8673f183d3fe2c
+
+BIN (TRACK 08) MD5: e55496e773d3935e53f71a748a66299d
+
+BIN (TRACK 09) MD5: 1a4016b567e580bce587ee59ff37872a
+
+**Description:**
+
+All tracks unlocked. Starts at menu board.
