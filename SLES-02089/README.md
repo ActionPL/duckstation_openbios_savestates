@@ -1,0 +1,43 @@
+﻿**Game name:**
+
+360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv)
+
+**Game ID:**
+
+SLES-02089
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: f40349e94bb8d2885d25093e862e215b744766b2
+
+BIN (TRACK 01) MD5: 14335238949a9b429c635723a49d7874
+
+BIN (TRACK 02) MD5: f98826f4cc22ed80dc83d06329eb9bb7
+
+BIN (TRACK 03) MD5: 4213086843577f7f562940d898ff3c1b
+
+BIN (TRACK 04) MD5: 01867094202897fa1f67273a9aaec802
+
+BIN (TRACK 05) MD5: da02ffef927771ccf0c7077f3fbd6fd2
+
+BIN (TRACK 06) MD5: ba81b6b154b26d5851c93743f2fc66ae
+
+BIN (TRACK 07) MD5: 4fabbb1e692e03de6e659bfa79653fbc
+
+BIN (TRACK 08) MD5: 368d664d7b74d65c7f6e26619c054b2b
+
+BIN (TRACK 09) MD5: 287069a1b41900afd7f57e660fd78251
+
+BIN (TRACK 10) MD5: 3f4d9bb8e44aba51c052ebe415f8013b
+
+BIN (TRACK 11) MD5: a76184f49b999056fee2c844b25444e2
+
+BIN (TRACK 12) MD5: 2974200696fd3edc500b2d5838a6797b
+
+**Description:**
+
+All arenas, tracks and Demon vehicle unlocked. Starts at main menu with "battle mode" option highlighted.
