@@ -1,0 +1,43 @@
+﻿**Game name:**
+
+X-Men - Mutant Academy (USA)
+
+**Game ID:**
+
+SLUS-00774
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: a95f500a97e262bfc5bec805ddeb65ae168afa53
+
+BIN (TRACK 01) MD5: 3dcae46ab7f36f2256ab993e93b3d40e
+
+BIN (TRACK 02) MD5: b8d23a8bea8323e3cc949f282472e7e1
+
+BIN (TRACK 03) MD5: 8d2d63368385705eb203cdd6d7026270
+
+BIN (TRACK 04) MD5: c8164bf97f8f614ea5669d8e8f1bf88e
+
+BIN (TRACK 05) MD5: 91bccb985a6cb32667a6c94a28674fbb
+
+BIN (TRACK 06) MD5: 45c724da67e82abfaef9f069543afff9
+
+BIN (TRACK 07) MD5: 9297a54383f5d797216d54b5afc03586
+
+BIN (TRACK 08) MD5: 0255384a5d81ccaadfa26765b79fecae
+
+BIN (TRACK 09) MD5: 755083a21ce8bbf70b1ed983034b6f59
+
+BIN (TRACK 10) MD5: 89e6547a676a02a1eb50ce53e1a30b86
+
+BIN (TRACK 11) MD5: 0d3df8c23a02a60cc3d093553812f0ba
+
+BIN (TRACK 12) MD5: 65aea234c174ee35fb574d981fe3fc4f
+
+**Description:**
+
+All characters and secrets unlocked. Starts in main menu with "VERSUS MODE" highlighted.
