@@ -18,4 +18,4 @@ BIN MD5: 3222f723f838ae4acac422b6f50f27a2
 
 **Description:**
 
-Most of the game's accessories, armor, weapons and items unlocked. Starts in arena lobby with "VS Battle" dialog option highlighted.
+Most of the game's accessories, armors, weapons and items unlocked. Starts in arena lobby with "VS Battle" dialog option highlighted.
