@@ -18,4 +18,4 @@ BIN MD5: 5e89e9972bfec07d136ebd331937a1f7
 
 **Description:**
 
-Dusterd unlocked. Rounds: 3, Time: 60 secondus. Starts in main menu with "VS HUMAN" option highlighted.
+Dusterd unlocked. Rounds: 3, Time: 60 seconds. Starts in main menu with "VS HUMAN" option highlighted.
