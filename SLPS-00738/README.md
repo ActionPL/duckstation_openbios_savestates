@@ -1,0 +1,57 @@
+﻿**Game name:**
+
+Saber Marionette J - Battle Sabers (Japan) (Shokai Genteiban)
+
+**Game ID:**
+
+SLPS-00738
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2248dc717d003f74baf0b0b094367d7abdfb1a5d
+
+BIN (TRACK 01) MD5: fb44d435a32d120e4647f4f876ba95cc
+
+BIN (TRACK 02) MD5: a5be60e8f2c7d78e08a0a6ffe31fc452
+
+BIN (TRACK 03) MD5: 81ad23614632ac2781eabfc60a37c09b
+
+BIN (TRACK 04) MD5: 8d9c5db11a4fbc57e90bef17a8fdcbe0
+
+BIN (TRACK 05) MD5: b5fdd879fcc1b89daf7a23d01d23c8ac
+
+BIN (TRACK 06) MD5: fe5dbb34cc9e056daf2d523aff348573
+
+BIN (TRACK 07) MD5: af47b150304967afae3696063c9d2568
+
+BIN (TRACK 08) MD5: a67b5ae58af59b5f303f8897520d61a1
+
+BIN (TRACK 09) MD5: 26e25bb258bdc6686a231590d6134026
+
+BIN (TRACK 10) MD5: d3524d94e8eb06e471452e6f6cce01cb
+
+BIN (TRACK 11) MD5: 544128b31242aae5e11f2215024f9a6d
+
+BIN (TRACK 12) MD5: 244298218c8693024f30669b52e300d0
+
+BIN (TRACK 13) MD5: 0f2b737ba02fced71151df4cc03b2c85
+
+BIN (TRACK 14) MD5: 494fd97edb25119629a5efeb37eb7563
+
+BIN (TRACK 15) MD5: 937b82ba2986d828d9b2473cdce6f6b1
+
+BIN (TRACK 16) MD5: 06fecf98036760bca30127dc4a187fdd
+
+BIN (TRACK 17) MD5: c467a596317f316324471cdf6bde8650
+
+BIN (TRACK 18) MD5: 937b82ba2986d828d9b2473cdce6f6b1
+
+BIN (TRACK 19) MD5: 937b82ba2986d828d9b2473cdce6f6b1
+
+**Description:**
+
+All characters and parts unlocked. Starts at main menu with "VS MODE" option highlighted.
