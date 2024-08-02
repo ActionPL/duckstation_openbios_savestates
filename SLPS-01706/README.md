@@ -18,4 +18,4 @@ BIN MD5: 17ac1624d397c35e77956e766912a055
 
 **Description:**
 
-OPIS
+Starts at 2 Player Mode on character selection screen.
