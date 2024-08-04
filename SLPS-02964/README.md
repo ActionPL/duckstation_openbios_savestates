@@ -18,4 +18,4 @@ BIN MD5: b55a41672a870f5dccf83fd03f7f410b
 
 **Description:**
 
-All characters, modes, cards and extra options unlocked. Rounds: 3. Starts in 2 PLAYERS BATTLE mode on the character selection screen.
+All characters, modes, cards and extra options unlocked. Rounds: 3, character transformation: on. Starts in 2 PLAYERS BATTLE mode on the character selection screen.
