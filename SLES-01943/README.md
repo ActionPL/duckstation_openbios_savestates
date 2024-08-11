@@ -18,4 +18,4 @@ BIN MD5: 74ad7f846182ad1c9dead523e1f7645f
 
 **Description:**
 
-OPIS
+Starts at main menu with "2 PLAYERS" option highlighted.
