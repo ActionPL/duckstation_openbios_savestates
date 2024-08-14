@@ -32,4 +32,3 @@ L2 - not used
 **Custom settings:**
 
 - CDROM emulation read/seek speedup 10x to reduce loading times before match
-- PGXP enabled (Perspective Correct Textures, Culling Correction)
