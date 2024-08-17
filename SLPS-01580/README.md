@@ -19,4 +19,3 @@ BIN MD5: b05f8fd8e2dd401583b4b720d3259032
 **Description:**
 
 All Characters Unlocked, Game start in Mode Select "Vs. Mode" highlighted.
-
