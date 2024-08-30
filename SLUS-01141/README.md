@@ -1,0 +1,33 @@
+﻿**Game name:**
+
+Batman - Gotham City Racer (USA)
+
+**Game ID:**
+
+SLUS-01141
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 38b366dc9f1ad5cbb3d72d850e779027e4bc61c7
+
+BIN (TRACK 01) MD5: c40df31c42aae0a281f0a8c3f21baeac
+
+BIN (TRACK 02) MD5: 94643fc94966e4dddbb027c86c8cc2cb
+
+BIN (TRACK 03) MD5: c8794f98c0504e018c76bfd0bdc8af6b
+
+BIN (TRACK 04) MD5: 8ea58718be0fe203b4e1ae7d4c077a00
+
+BIN (TRACK 05) MD5: 521b73534921c75a6f2127abf0d3ec8a
+
+BIN (TRACK 06) MD5: 204372bb2dfdb5ba65947087625bd267
+
+BIN (TRACK 07) MD5: 18b57070664d0d9fec2e8ebaf1a75232
+
+**Description:**
+
+Starts in 2 PLAYER PURSUIT mode.
