@@ -1,0 +1,49 @@
+﻿**Game name:**
+
+Bowling (USA)
+
+**Game ID:**
+
+SLUS-01288
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7731b2cae0bf9bfefc8d8ec96d69f85b139093c8
+
+BIN (TRACK 01) MD5: 3c4741d1857915ee8e6a8a39be64c90d
+
+BIN (TRACK 02) MD5: f7e97ec8f1c7abb809ef982ea624a606
+
+BIN (TRACK 03) MD5: 6920cd652ed3d5b5c62d99fe1b08f64b
+
+BIN (TRACK 04) MD5: da5e3473286cd17563113b626a058721
+
+BIN (TRACK 05) MD5: cd4243b92c7da2be8dd294674af925fa
+
+BIN (TRACK 06) MD5: b05001d05a5be79955e5e6df0e2ec161
+
+BIN (TRACK 07) MD5: cf5144cf8845dfa5d26f8931dd6c1888
+
+BIN (TRACK 08) MD5: 114f401438e6be0b8e7cea9e008cd17a
+
+BIN (TRACK 09) MD5: dbeaffa6cfabb8f4647cfa7f72e95ca9
+
+BIN (TRACK 10) MD5: 172908a3e3fd016472513a4e9f27610d
+
+BIN (TRACK 11) MD5: 3ebb1646fd2746a947b816365439e9fb
+
+BIN (TRACK 12) MD5: fd995396af73a4b025c2e5acf46a66bd
+
+BIN (TRACK 13) MD5: e5314e4a60fe1b3b3e647213afdd5486
+
+BIN (TRACK 14) MD5: ce8cb2b1b9be1879f02ad7b48b329d8a
+
+BIN (TRACK 15) MD5: 10948fd42cc79a68b535b7605c2696e9
+
+**Description:**
+
+Starts in Game Mode Selection screen with "Standard" option highlighted.
