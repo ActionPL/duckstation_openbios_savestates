@@ -1,3 +1,5 @@
+**OUTDATED AND BROKEN, PLEASE REMOVE**
+
 **Game name:**
 
 Digimon Rumble Arena (USA) [True OG Edition]
