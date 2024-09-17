@@ -1,0 +1,45 @@
+﻿**Game name:**
+
+Contender (USA)
+
+**Game ID:**
+
+SCUS-94294
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: da5b890271578ca754b31ec8ef6a70ffedb8d5b8
+
+BIN (TRACK 01) MD5: c7f174b022524d8deeb56acccaeb5691
+
+BIN (TRACK 02) MD5: 84a561acf121a15b07a4e24693175c3f
+
+BIN (TRACK 03) MD5: c49bc18ee36228bf3fb88296c437ae28
+
+BIN (TRACK 04) MD5: 1b58075ec461a62cb1bb4071bbb18433
+
+BIN (TRACK 05) MD5: 9d3850a60075215d3a651f31a19f3a19
+
+BIN (TRACK 06) MD5: 74c85cf49229380dcd77175f95bf01f7
+
+BIN (TRACK 07) MD5: d015a7e30f3b6dbbede1741d4f485d7b
+
+BIN (TRACK 08) MD5: 9e9a8db3623375cbc4ba044909f17156
+
+BIN (TRACK 09) MD5: 04b64e48dd1a797557d7d5c0e1346be5
+
+BIN (TRACK 10) MD5: efec7902b084468d29a312800153bbdc
+
+BIN (TRACK 11) MD5: 13f9035c85075be444e135a05a511682
+
+BIN (TRACK 12) MD5: f63f0bda34cd8fd37b58e048b1e80327
+
+BIN (TRACK 13) MD5: ee83e17e16bca73cd5438462de6883d2
+
+**Description:**
+
+All fighters unlocked. Starts at main menu with "Exhibition" option highlighted.
