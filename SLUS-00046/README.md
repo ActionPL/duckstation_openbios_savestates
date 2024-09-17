@@ -1,0 +1,45 @@
+﻿**Game name:**
+
+Criticom (USA)
+
+**Game ID:**
+
+SLUS-00046
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: fcae5d1b188099b554f3340fc02e1f7f44d45de6
+
+BIN (TRACK 01) MD5: bb82bbb562af271a2bf01041a6856361
+
+BIN (TRACK 02) MD5: c5e4a11335c7c6bbbef1661d29d0e46a
+
+BIN (TRACK 03) MD5: eb83573835c2231909d11809d08badc8
+
+BIN (TRACK 04) MD5: 3bde0db2c2bdaf6cfeed57c6531baf50
+
+BIN (TRACK 05) MD5: b6ca80f8d2ac4c2ce4a4b2b16e26ceea
+
+BIN (TRACK 06) MD5: 2f52b787f90c3f8076b62cb342ee1ee6
+
+BIN (TRACK 07) MD5: 307ed7bf4b55cf2a4534d6d3d0796c60
+
+BIN (TRACK 08) MD5: 59061429783257149084e064adf3b946
+
+BIN (TRACK 09) MD5: b91173b655ee65fc4c3260e49ee571b6
+
+BIN (TRACK 10) MD5: bc6c83052442928f1dec5659cd17da5f
+
+BIN (TRACK 11) MD5: 36ce41112e5500f4ae9dbd6834093e9b
+
+BIN (TRACK 12) MD5: 061ab8dad6733cc0bf715e64bb74aabf
+
+BIN (TRACK 13) MD5: a7dcba7fd8ef0fb49e37904fb999b8eb
+
+**Description:**
+
+Starts at main menu with "2 PLAYER" option highlighted.
