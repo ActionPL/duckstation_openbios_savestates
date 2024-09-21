@@ -1,0 +1,21 @@
+**Game name:**
+
+Digimon World 2 (USA)
+
+**Game ID:**
+
+SLUS-01193
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4396ECE052650449536580A969185874720B509E
+
+BIN (TRACK 01) MD5: E8EE6810A33C45273800DF07628D816B
+
+**Description:**
+
+Starts in BATTLE MODE.
