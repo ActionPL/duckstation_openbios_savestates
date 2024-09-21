@@ -1,0 +1,25 @@
+**Game name:**
+
+Dexter's Laboratory - Mandark's Lab (USA)
+
+**Game ID:**
+
+SLUS-01421
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4547F02912E203128CBE06B580249E7B76407382
+
+BIN (TRACK 01) MD5: 3D552030E15D1A5D52C6B54946625134
+
+BIN (TRACK 02) MD5: B90505515FBA8884C45E4F3571C42B59
+
+BIN (TRACK 03) MD5: 5EF32A04C61764D146D6D27872B5BDA9
+
+**Description:**
+
+All challenges unlocked. Starts in CHALLENGE mode with "TWO PLAYERS" option highlighted.
