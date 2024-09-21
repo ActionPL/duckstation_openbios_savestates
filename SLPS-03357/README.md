@@ -18,4 +18,4 @@ BIN MD5: 0387534dcd7220117d22494272748960
 
 **Description:**
 
-Starts on the 2P VS Screen. All characters, stages, and minigames are unlocked.
+Starts on the "2P VS Screen". All characters, stages and minigames are unlocked.
