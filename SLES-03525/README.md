@@ -1,0 +1,23 @@
+**Game name:**
+
+Dragstars (Europe)
+
+**Game ID:**
+
+SLES-03525
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8939F4E4C35F97BE13B39FB1FC7861483FB4EEF5
+
+BIN (TRACK 01) MD5: 2663A2F5D2F388734B29459B5FFC7EFA
+
+BIN (TRACK 02) MD5: D3ACDF1A08D047C72E595351FC548900
+
+**Description:**
+
+Starts at main menu with "QUICK RACE" option highlighted.
