@@ -14,8 +14,11 @@ Hash:
 
 CHD DATA SHA1: 87b78ac3034312cc57dd94a86751064c93bf5ab2
 BIN MD5:
+
 TRACK 1: 469cf6229dfe90185d9e727157c163da
+
 TRACK 2: d53fd98d655afa2bf3415009778a0381
+
 (Track 2 is just audio, like Tetris Plus, but my dump actually matches redump for this game! There also isn't nearly 50 fucking tracks either lol)
 
 Description:
