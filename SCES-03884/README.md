@@ -1,0 +1,47 @@
+﻿**Game name:**
+
+Firebugs (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)
+
+**Game ID:**
+
+SCES-03884
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: f8c219d3ad8f859a23fe3d06ddb4d7d07180bae7
+
+BIN (TRACK 01) MD5: 6aff6cfcf7a08c4a4b469d677c8daad6
+
+BIN (TRACK 02) MD5: a23473df5013396bc4fc112c10f3977a
+
+BIN (TRACK 03) MD5: bdff888c0b6bef4ee59a93899e090204
+
+BIN (TRACK 04) MD5: 1d67088bedf8891962d8937210e98aed
+
+BIN (TRACK 05) MD5: b8657dc4c4e2f1840300e089ac79522a
+
+BIN (TRACK 06) MD5: ba6fc7d308a63f80e145e42cec486906
+
+BIN (TRACK 07) MD5: 745f89ad93c995f6624bdf0b522d0acd
+
+BIN (TRACK 08) MD5: fc16a8ce8a6af7ee87025c6fb81a7d29
+
+BIN (TRACK 09) MD5: 1e6cf663246788cacea6297057ef6dda
+
+BIN (TRACK 10) MD5: 4055517bb3aacd54f89f1d873f602a57
+
+BIN (TRACK 11) MD5: 874ff7b0342f203252eba8eb0b73b139
+
+BIN (TRACK 12) MD5: 1492aa32e784f207ca5c90ae78cfe337
+
+BIN (TRACK 13) MD5: 1d95f61b6e37ee3451a49a76063329c8
+
+BIN (TRACK 14) MD5: 7340f75bbd02ab86de2675b665638d12
+
+**Description:**
+
+Everything unlocked. Starts at main menu with "2 PLAYER" option highlihted.
