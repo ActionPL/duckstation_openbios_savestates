@@ -1,0 +1,35 @@
+﻿**Game name:**
+
+Formula Nippon (Europe) (En,Es,It)
+
+**Game ID:**
+
+SLES-02526
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3d0c1b6169019169f99bc7e81f5c5bb2d2c45c84
+
+BIN (TRACK 01) MD5: 7348ef40cb0dab7d058596d87365fc08
+
+BIN (TRACK 02) MD5: 41a39a7ec535d107e9d2229b82462e59
+
+BIN (TRACK 03) MD5: a5ee718955ba95aac918925bc02a7372
+
+BIN (TRACK 04) MD5: 774c9e4aa7329472456ad509e2d0f142
+
+BIN (TRACK 05) MD5: 620f459dea00dfde0a913d4b38813321
+
+BIN (TRACK 06) MD5: 3b2e8e0c67f72903f7bdcedf72839925
+
+BIN (TRACK 07) MD5: 5bce9aa150626dbe860cc7bcd1c598f6
+
+BIN (TRACK 08) MD5: a5ee718955ba95aac918925bc02a7372
+
+**Description:**
+
+Starts at main menu with "2PLAYER VS MODE" option highlighted.
