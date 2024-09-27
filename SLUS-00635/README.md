@@ -1,0 +1,23 @@
+**Game name:**
+
+Fox Sports Soccer '99 (USA) (En,Es)
+
+**Game ID:**
+
+SLUS-00635
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 61CC68564C571B5DD594FF85AD9BA7D085EF83EB
+
+BIN (TRACK 01) MD5: D6548CEF869ED6D03687BF070AED168C
+
+BIN (TRACK 02) MD5: 8D7D4787801EE45FAAD12A57B7332800
+
+**Description:**
+
+Starts at main menu with "FRIENDLY" option highlighted.
