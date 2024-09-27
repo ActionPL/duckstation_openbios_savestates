@@ -1,0 +1,41 @@
+﻿**Game name:**
+
+Formula Karts - Special Edition (Europe) (En,De,Es,It)
+
+**Game ID:**
+
+SLES-00726
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9026afca21fccd10507e3e403bb6b1febb1feefa
+
+BIN (TRACK 01) MD5: 66c68d33d5643fba49f54169e2e73569
+
+BIN (TRACK 02) MD5: 51b559b75d236bb570b97fee28b3d5ac
+
+BIN (TRACK 03) MD5: 2760cdf2a9b68b2383fc879d2394393c
+
+BIN (TRACK 04) MD5: c01f5053465d36e07f5a5c4d1ac36536
+
+BIN (TRACK 05) MD5: db70167c4a1350bee1236960259eeda1
+
+BIN (TRACK 06) MD5: 04b5e43d81a0400e82e98732590baf2b
+
+BIN (TRACK 07) MD5: c0ed110ab234e2682f8de798be835727
+
+BIN (TRACK 08) MD5: 460971fea32a64942f712395d4d01320
+
+BIN (TRACK 09) MD5: dabe62e642465b0665cd1fb9d5cdb429
+
+BIN (TRACK 10) MD5: 6507dd784ec4e33adddb3fc5da67c452
+
+BIN (TRACK 11) MD5: 01be44cedd23c5125e006593bdcc7ed6
+
+**Description:**
+
+Starts at main menu with "2 Player" option highlighted.
