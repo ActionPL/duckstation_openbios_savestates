@@ -1,0 +1,23 @@
+**Game name:**
+
+Formula 1 98 (USA) (En,Fr,De,Es,It,Fi)
+
+**Game ID:**
+
+SLUS-00744
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6D225710AAA976A9B985EC90C21982FD7B27D263
+
+BIN (TRACK 01) MD5: 74DC5A704C3842D3677D890C8881CA07
+
+BIN (TRACK 02) MD5: 369FF3006396BBCA8D9A1FB9CC125AF9
+
+**Description:**
+
+Starts at main menu with "ARCADE RACE" option highlighted.
