@@ -1,0 +1,23 @@
+**Game name:**
+
+Gallop Racer (USA)
+
+**Game ID:**
+
+SLUS-00942
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C73C9CB11CD94AE16B66B7ACD66E44EC01D2288E
+
+BIN (TRACK 01) MD5: D2546250359D8A98C3740818B986AF3F
+
+BIN (TRACK 02) MD5: 47C3964061188871B86C9CEC1421AF9E
+
+**Description:**
+
+Starts at main menu with "VS MODE" option highlighted.
