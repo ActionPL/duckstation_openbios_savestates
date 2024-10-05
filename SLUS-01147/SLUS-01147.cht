@@ -1,0 +1,4 @@
+#type=Gameshark
+#activation=EndFrame
+[*60 FPS]
+800A0BAC 0001
