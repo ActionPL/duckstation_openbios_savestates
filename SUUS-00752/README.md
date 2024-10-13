@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-Thrill Kill Plus WIP v5 (USA)
+Thrill Kill (USA) [TKPlus WIP v5]
 
 **Game ID:**
 
