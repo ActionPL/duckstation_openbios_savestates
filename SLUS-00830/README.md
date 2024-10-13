@@ -1,0 +1,25 @@
+**Game name:**
+
+High Heat Baseball 2000 (USA)
+
+**Game ID:**
+
+SLUS-00830
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 
+
+BIN (TRACK 01) MD5: 78E2072A72C95A38ED29D2883604382D
+
+BIN (TRACK 02) MD5: 68A71DCA2616AA11ACA31A35A974FCAC
+
+BIN (TRACK 03) MD5: CF2F6A8B3FB2C94FEF1BFFE829C9906A
+
+**Description:**
+
+Starts at main menu with "EXHIBITION" option highlighted.
