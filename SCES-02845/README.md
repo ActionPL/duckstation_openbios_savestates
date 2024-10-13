@@ -1,0 +1,47 @@
+﻿**Game name:**
+
+WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SCES-02845
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: ceb6fc84a8cb557f49b170ce6640ba15a65d7868
+
+BIN (TRACK 01) MD5: b9d48f139544051893f45eed62780e42
+
+BIN (TRACK 02) MD5: e868eeae81bddf113cc5eeffe2c7f091
+
+BIN (TRACK 03) MD5: 26cc951fedd4b9da2152dfbcfdf505a9
+
+BIN (TRACK 04) MD5: fab19a45b7605675670539091e1bad9d
+
+BIN (TRACK 05) MD5: 43a06f9bfc62a99d75fbad87add147be
+
+BIN (TRACK 06) MD5: 63639ec65313ee6a4a11948398164a70
+
+BIN (TRACK 07) MD5: 6355ba71d3aa01aaac92f261ed0fcc25
+
+BIN (TRACK 08) MD5: d4d01f4e840fa66c508cb7a260086258
+
+BIN (TRACK 09) MD5: 892ea613090dffafa05f368ab689254c
+
+BIN (TRACK 10) MD5: e1b354c0279badc539845f2c2eabdd65
+
+BIN (TRACK 11) MD5: 1a64f88c57c44d18b82eec49a6a05723
+
+BIN (TRACK 12) MD5: ca2f5b4cc767b68ba5b296c61e9ad31b
+
+BIN (TRACK 13) MD5: 96f8d32adbec0774bd72cc6711dddff0
+
+BIN (TRACK 14) MD5: d3210c8fd2724365ce24b31455d38774
+
+**Description:**
+
+Starts in main menu with "two player game" option highlighted.
