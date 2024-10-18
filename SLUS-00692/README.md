@@ -42,4 +42,4 @@ BIN (TRACK 13) MD5: 0e0780125290c5f1c615bed12e03e066
 
 **Description:**
 
-All cars and cps unlocked. Starts at 2 Players menu with "VS" option highlighted.
+All cars and cps unlocked. Starts at players selection screen.
