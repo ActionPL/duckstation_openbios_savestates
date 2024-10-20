@@ -8,6 +8,7 @@ By the way, if you have a useful save, I strongly recommend you to also support 
 
 <h2>Requirements</h2>
 
+* **UPDATE! - You can use [Arkadyzja Savestate Manager][5] to simplify the creation of savestates and correct descriptions! Just remember to use the latest game revision and ensure both controllers are set to DIGITAL!**
 * Use the latest revision of the game for the savestate **(if there is a valid reason to do otherwise - describe it)**.
 * Both controllers need to be enabled, on digital mode (NOT analog).
 * the game used to create the savestate has to be in the CHD file format **(and its filename must be named "GAME-ID000.chd")**.
@@ -39,3 +40,4 @@ Any questions? Official Discord channel and support: [Honmaru][5]
 [3]: https://github.com/HeatXD/duckstation-fightcade-savestates
 [4]: https://emn178.github.io/online-tools/md5_checksum.html
 [5]: https://honmaru.pl/arkadyzja/discord/
+[6]: https://github.com/SubZeroPL/AssM
