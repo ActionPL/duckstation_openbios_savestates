@@ -22,7 +22,7 @@ Starts at main menu with 5 credits inserted.
 
 About patch:
 
-Patch from the Arcade ZN-2 to PSX conversion, created by 115. 
+Patch for the Arcade ZN-2 to PSX conversion, created by 115. Adds a different game ID.
 
 https://www.romhacking.net/hacks/5607/
 
