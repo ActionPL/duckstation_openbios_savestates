@@ -19,3 +19,13 @@ BIN MD5: ee7a14b5922ad4eb8b21fc4db7ee31d6
 **Description:**
 
 Starts at main menu with 5 credits inserted.
+
+About patch:
+
+Patch from the Arcade ZN-2 to PSX conversion, created by 115. 
+
+https://www.romhacking.net/hacks/5607/
+
+Original image MD5 hash:
+
+BIN: cdda6dcd89bf1b39d831b86d1a12fa84
