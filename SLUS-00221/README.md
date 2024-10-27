@@ -1,0 +1,25 @@
+**Game name:**
+
+Independence Day (USA)
+
+**Game ID:**
+
+SLUS-00221
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 
+
+BIN (TRACK 01) MD5: 61BDAC251B3064109BA5BFA4BEF56345
+
+BIN (TRACK 02) MD5: A2E2457F28D3861506B0C9CC913E6CC3
+
+BIN (TRACK 03) MD5: 7402FE5C771BB639FCBB28234FD7F2B4
+
+**Description:**
+
+Starts at main menu with "MULTIPLAYER" option highlighted.
