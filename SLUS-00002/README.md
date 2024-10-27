@@ -34,4 +34,4 @@ BIN (TRACK 09) MD5: 9f02806871ddb874ed51493bb5c06382
 
 **Description:**
 
-Starts at team selection screen in "HEAD TO HEAD" mode.
+Starts at title screen with "PRESS START!" option highlighted.
