@@ -18,4 +18,4 @@ BIN MD5: 6668ec1c00c7c61086a1f7c0090188ef
 
 **Description:**
 
-OPIS
+Game starts after loading a save from the Memory Card with a team made up of a Warrior, Hunter, Elf and Rogue.
