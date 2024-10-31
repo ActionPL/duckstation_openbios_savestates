@@ -20,4 +20,4 @@ BIN (TRACK 02) MD5: 88aa16698a904e9841f2279a4e9beb23
 
 **Description:**
 
-Starts at main menu with "EXHIBITION" option highlighted.
+Starts in main menu with "EXHIBITION" option highlighted.
