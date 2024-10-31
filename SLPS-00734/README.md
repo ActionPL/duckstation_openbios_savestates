@@ -1,0 +1,43 @@
+﻿**Game name:**
+
+Mad Stalker - FullMetalForce (Japan)
+
+**Game ID:**
+
+SLPS-00734
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: e64e0f38d3720b141b4e84c856616606a06c8461
+
+BIN (TRACK 01) MD5: 44a6bf007752178d39e708f34432e37a
+
+BIN (TRACK 02) MD5: ffe1e4684224910531868c31448941d9
+
+BIN (TRACK 03) MD5: 59e62c83f71e15e2c93177d25fed6348
+
+BIN (TRACK 04) MD5: 88db647faf0beb0011dad8e279d0370b
+
+BIN (TRACK 05) MD5: ad1727b99409452485ab03ff14e51ad9
+
+BIN (TRACK 06) MD5: 08cc98c11dc93c8b571cd8539725fc30
+
+BIN (TRACK 07) MD5: 4dc7da9a5bb721fdddb8898e0f411d39
+
+BIN (TRACK 08) MD5: baef353d0984b3aef0a586929ecf2f2b
+
+BIN (TRACK 09) MD5: d8215e09bc3782de2da17a7913ef43d8
+
+BIN (TRACK 10) MD5: b88d105470a2cc8cccde0d669d7002d1
+
+BIN (TRACK 11) MD5: 4da35e556b2f8632432a1888e27732f4
+
+BIN (TRACK 12) MD5: 2152d43371551377e4a2de2608c22b98
+
+**Description:**
+
+All characters unlocked. Starts at main menu with "VS" option highlighted.
