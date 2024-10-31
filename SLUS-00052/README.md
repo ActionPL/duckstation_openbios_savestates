@@ -42,4 +42,4 @@ BIN (TRACK 13) MD5: 3708581f1d01d893e7df7f4fc14ae84e
 
 **Description:**
 
-Starts in Head-to-Head mode.
+Starts in Head to Head game mode menu.
