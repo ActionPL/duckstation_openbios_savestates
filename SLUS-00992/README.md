@@ -1,0 +1,23 @@
+**Game name:**
+
+Missile Command (USA)
+
+**Game ID:**
+
+SLUS-00992
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A94CEA7202C665CFAE918145A9AF5F93B7A69587
+
+BIN (TRACK 01) MD5: 97CE8032FD1015A19BBBA02F15FEBA38
+
+BIN (TRACK 02) MD5: EED3378601F72F90B285598BBF2A68E0
+
+**Description:**
+
+Starts in CLASSIC mode with "COOPERATIVE" option highlighted.
