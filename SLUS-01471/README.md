@@ -1,0 +1,23 @@
+**Game name:**
+
+Marble Master (USA)
+
+**Game ID:**
+
+SLUS-01471
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A7822B92A969FD7AC41F3C43D5682A0B3B3B3EF1
+
+BIN (TRACK 01) MD5: 30B374D7F5A9149AF91A5CA680040FDA
+
+BIN (TRACK 02) MD5: 0DD859ADD0CF671186D297E02DA26196
+
+**Description:**
+
+Starts at main menu with "MULTIPLAYER" option highlighted.
