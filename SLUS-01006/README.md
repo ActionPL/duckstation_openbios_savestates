@@ -1,0 +1,23 @@
+**Game name:**
+
+MTV Music Generator (USA)
+
+**Game ID:**
+
+SLUS-01006
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DC2A569611C70905CFBA7C4082E24B16538D39EE
+
+BIN (TRACK 01) MD5: 2AB887A6A332BA7434D4C4DEDBAAE517
+
+BIN (TRACK 02) MD5: 7B55803F1B22784DE5AF3AF4F7102BC6
+
+**Description:**
+
+Starts in "Music Jam" mode.
