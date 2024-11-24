@@ -1,0 +1,23 @@
+**Game name:**
+
+MLB 98 (USA)
+
+**Game ID:**
+
+SCUS-94170
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C62DDCB65F0D2A1E92B1F09F196BA7BFDC14A91E
+
+BIN (TRACK 01) MD5: B054375BD205B76E4D215B04615AD762
+
+BIN (TRACK 02) MD5: 35A94244F80695D2144263EDC8AE185B
+
+**Description:**
+
+Starts in main menu with "EXHIBITION GAME" option highlighted.
