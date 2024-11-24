@@ -1,6 +1,6 @@
 **Game name:**
 
-CTR - Crash Team Racing (USA) [OnlineCTR v05.06.24]
+CTR - Crash Team Racing (USA)
 
 **Game ID:**
 
@@ -8,16 +8,14 @@ SCUS-94426
 
 **Game format:**
 
-BIN
+CHD
 
 **Hash:**
 
-OnlineCTR [60FPS] BIN MD5: e1e6f7b48f60ef36816e15be0a113ec6
+CHD DATA SHA1: 1D8476211F7AAB807F6311A628E8282CB0AAEA32
 
-OnlineCTR [30FPS] BIN MD5: 7f852ae79a17f0801af7c93d03b449e2
-
-Original BIN MD5: ab95bfca8a4bb3d90daa6519acf6e944
+BIN (TRACK 01) MD5: AB95BFCA8A4BB3D90DAA6519ACF6E944
 
 **Description:**
 
-Starts at lobby.
+Everything unlocked. Starts at main menu with "VS." option highlighted.
