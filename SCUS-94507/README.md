@@ -1,0 +1,23 @@
+**Game name:**
+
+MLB Pennant Race (USA)
+
+**Game ID:**
+
+SCUS-94507
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E48C71A01CC0F179FF5F54AFC2D80848715F5508
+
+BIN (TRACK 01) MD5: F48A727EDA2FC9BF908CA36C3B8E6C4E
+
+BIN (TRACK 02) MD5: 3240333CA5CE07ED29E4A13CA70FA5E8
+
+**Description:**
+
+Starts at main menu with "EXHIBTION" option highlighted.
