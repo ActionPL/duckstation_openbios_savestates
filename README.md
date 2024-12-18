@@ -1,44 +1,52 @@
-<h1>This repository has one goal. Create a savestates database for Arkadyzja!</h1>
+**Game name:**
 
-Savestates for [Arkadyzja][1] are created in almost the same way as those for use by Fightcade - with the main difference being that the emulator uses [OpenBIOS from PCSX-Redux Team (version 20240109)][2] .
+Soukou Kihei Votoms Gaiden - Ao no Kishi Berserga Monogatari (Japan, Asia)
 
-Therefore, let me quote the requirements from [HeatXD repository][3], marking the difference with **bold font**. 
+**Game ID:**
 
-By the way, if you have a useful save, I strongly recommend you to also support a [Fightcade repository][3]!
+SCPS-45115
 
-<h2>Requirements</h2>
+**Game format:**
 
-* **UPDATE! - You can use [Arkadyzja Savestate Manager][6] to simplify the creation of savestates and correct descriptions! Just remember to use the latest game revision and ensure both controllers are set to DIGITAL!**
-----------------------------------------------------------------------------------------------------------------------
-* Use the latest revision of the game for the savestate **(if there is a valid reason to do otherwise - describe it)**.
-* Both controllers need to be enabled, on digital mode (NOT analog).
-* the game used to create the savestate has to be in the CHD file format **(and its filename must be named "GAME-ID000.chd")**.
-* the game has to be located in a folder called "ROMs" which is in the same directory as the duckstation executable this can be done like this in your settings.ini file.\
-![image](./content/recursive_paths.png)
+CHD
 
-* There can only be one recursive path entry. Duckstation will automatically generate this .ini file on first launch. **Check** ~~Edit~~ it AFTER you launch for the first time, and remove/replace any prior entries for `RecursivePaths` **if necessary**.
+**Hash:**
 
-* Savestates MUST be created with the ~~SCPH-7000W~~ **[OpenBIOS (version 20240109)][2]**.
+CHD DATA SHA1: f392bd990c01a72b13f6b73983e003b4d9f644db
 
-* A [MD5 file hash][4] of the game should be supplied within the ~~Issue~~ **README.md file in the right savestate folder**.\
- (The MD5 hash should refer to BIN files, and the information about the CHD file should include the so-called **DATA SHA1** hash. (<tt>.\chdman info -i \<filename\></tt>))
+BIN (TRACK 01) MD5: 0685f2dd6c7c9f871af48954304a0e4e
 
-* Savestates should be verified to be working on the current ~~fightcade~~ **[Arkadyzja][1]** build.
+BIN (TRACK 02) MD5: 944a797604bb4267807b995fc02c189f
 
-* if a savestate requires cheats to make it complete please supply the savestate with the accompanying cheat file within ~~the Issue~~ savestate folder.
+BIN (TRACK 03) MD5: 00816254c3770e107cf50b2c9e80e521
 
-* A fitting description of the savestate. what does it unlock? at which screen does it start? etc.
+BIN (TRACK 04) MD5: ac7a3dfe9ed8c05bb09b50ee6b619ea1
 
-<h2>An example of a correct directory tree with the location of savestates, bios, and the game itself</h2>
+BIN (TRACK 05) MD5: ac7a3dfe9ed8c05bb09b50ee6b619ea1
 
-![image](./content/tree.png)
+BIN (TRACK 06) MD5: aa9a5221e6df122b0fb6713c2d6268ae
 
+BIN (TRACK 07) MD5: fcb5aa5b413da5080d2b85e19a623f94
 
-Any questions? Official Discord channel and support: [Honmaru][5]
+BIN (TRACK 08) MD5: 0646719bb08bfb878d008bb6cc3af2a7
 
-[1]: https://www.honmaru.pl/en/arkadyzja/
-[2]: https://github.com/grumpycoders/pcsx-redux/tree/main/src/mips/openbios
-[3]: https://github.com/HeatXD/duckstation-fightcade-savestates
-[4]: https://emn178.github.io/online-tools/md5_checksum.html
-[5]: https://honmaru.pl/arkadyzja/discord/
-[6]: https://github.com/SubZeroPL/AssM
+BIN (TRACK 09) MD5: b4d31974f6e83f44663e57f04b0dee93
+
+BIN (TRACK 10) MD5: b29c4ba849d530ba8f21af53595f79ab
+
+BIN (TRACK 11) MD5: 49589a96981161bcc16cb995916093b6
+
+BIN (TRACK 12) MD5: f2ba95196bc179d3d8818f3893a1b6b0
+
+BIN (TRACK 13) MD5: 8b6045fd2c863e34db21069c1a0d3720
+
+BIN (TRACK 14) MD5: cd9cb86b5df12f12c97a366c72776856
+
+BIN (TRACK 15) MD5: 1ae74a350748e07a097811fc0fbef304
+
+BIN (TRACK 16) MD5: c70e4d2e67dc7b733b9648aad76d498c
+
+**Description:**
+
+Starts in the Stage Select screen of Versus mode with all ATs and Parts unlocked
+Based on a save file courtesy of the user "SaveConverter" on GameFAQs
