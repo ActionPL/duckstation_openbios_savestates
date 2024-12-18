@@ -1,6 +1,6 @@
 **Game name:**
 
-SD Gundam Eiyuuden - Daikessen!! Knight vs. Musha (Japan)
+SD Gundam Eiyuuden - Daikessen!! Kishi vs. Musha (Japan)
 
 **Game ID:**
 
@@ -12,9 +12,9 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: d9d632169ab91706ff6f1133d4be3f655c8a2d4b
+CHD DATA SHA1: FB115CA4AEFC6515F18362103421C017CD468169
 
-BIN MD5: 3e2d93fa74b3cbfcc3712c8cbde1b82b
+BIN MD5: 3E2D93FA74B3CBFCC3712C8CBDE1B82B
 
 **Description:**
 
