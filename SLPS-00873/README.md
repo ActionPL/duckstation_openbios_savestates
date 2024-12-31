@@ -46,5 +46,5 @@ BIN (TRACK 15) MD5: a3358b5de12be4c38abf9869d27de9f9
 
 **Description:**
 
-Starts on the "Versus Mode" character select screen and has the character Z-Warsd unlocked
+Starts on the "Versus Mode" character select screen and has the character "Z-Warsd" unlocked
 Based on a save game file courtesy of the user "delta_7890" on GameFAQs
