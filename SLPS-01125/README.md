@@ -42,4 +42,4 @@ BIN (TRACK 13) MD5: 23e1bc69b59bb10c16e58876c712cc15
 
 **Description:**
 
-Starts on the title screen with the time limit set to death match and Getviewm, R-1. R-2 Powered, and R-3 unlocked
+Starts on the title screen with the time limit set to death match and Getviewm, R-1, R-2 Powered, and R-3 unlocked
