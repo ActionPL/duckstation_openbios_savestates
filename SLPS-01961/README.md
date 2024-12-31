@@ -18,5 +18,5 @@ BIN MD5: 4e66be201b82ff220fd7e80f5fa3fc2f
 
 **Description:**
 
-starts on the character select screen of Versus mode with all known AT's unlocked
+Starts on the character select screen of Versus mode with all known AT's unlocked
 Based on a save file courtesy of the user "SaveConverter" on GameFAQs
