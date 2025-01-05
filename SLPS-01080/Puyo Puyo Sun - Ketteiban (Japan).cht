@@ -1,0 +1,150 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Max No. Of Win]
+801CDD28 0063
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 Max No. Of Win]
+801CDD2C 0063
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*All Gallery Unlock]
+901CDD1C 3FFFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[The large fall 2P]
+9003D370 30821000
+8003D376 1440
+8003D378 004E
+8003D386 AC80
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Easy Difficulty level]
+801CDD3C 0000
+
+#group=1P Mode
+#type=Gameshark
+#activation=EndFrame
+[Arle Starts @ Extra Stage vs. Carbuncle]
+A61CDB00 1000E
+
+#group=1P Mode
+#type=Gameshark
+#activation=EndFrame
+[Arle Starts @ Final Stage vs. Satan]
+A61CDB00 1000D
+
+#group=1P Mode
+#type=Gameshark
+#activation=EndFrame
+[Schezo Starts @ Extra Stage vs. Carbuncle]
+A61CDB00 10009
+
+#group=1P Mode
+#type=Gameshark
+#activation=EndFrame
+[Schezo Starts @ Final Stage vs. Satan]
+A61CDB00 10008
+
+#group=Endless Mode
+#type=Gameshark
+#activation=EndFrame
+[P1 Max Level]
+801CDDFC 0063
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Get 1 Sun Puyo per Turn]
+80120DE0 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 Get 1 Sun Puyo per Turn]
+80121210 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Massive Ojama Puyos]
+80120D94 001E
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 Massive Ojama Puyos]
+801211C8 001E
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Max Score]
+901CDDE4 5F5E0FF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 Max Score]
+901CDDE8 5F5E0FF
+
+#group=Nazo Puyo Mode
+#type=Gameshark
+#activation=EndFrame
+[*All Clear]
+50000D01 0000
+301D42A0 00FF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 No Ojama Puyos]
+80120D94 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 No Ojama Puyos]
+801211C8 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 No Sun Puyos]
+80120DE0 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 No Sun Puyos]
+80121210 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 No Warning Puyos]
+801060C8 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 No Warning Puyos]
+801060CC 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Unlock All Extras]
+901CDD1C 3FFFF
+901CDD24 7FFFFFF
+801CDD98 0079
+
