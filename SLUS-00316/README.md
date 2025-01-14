@@ -32,7 +32,7 @@ BIN (Track 08) MD5: 08e894c864dc5f8208e75b7e8dfa2d74
 
 BIN (Track 09) MD5: 4cb8c4a9edf9cc9759ead9e00ea5c9cf
 
-BIN (Track 10) MD5:  8b251cad02e64d4959101340ac5b60c1
+BIN (Track 10) MD5: 8b251cad02e64d4959101340ac5b60c1
 
 BIN (Track 11) MD5: d882dbb0a39f0dd8206a17de832b90fe
 
