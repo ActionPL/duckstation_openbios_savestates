@@ -18,4 +18,4 @@ BIN MD5: 4de4d79eeb2628216d69ca7164eb203c
 
 **Description:**
 
-begins in the vs mode character selection screen with all characters unlocked and sets overclocking to 150%
+begins in the vs mode character selection screen with all characters unlocked and sets overclocking to 220%
