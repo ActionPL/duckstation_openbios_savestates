@@ -18,5 +18,5 @@ BIN MD5: 273bc518591ebb7ed4b62840a86ad630
 
 **Description:**
 
-Starts on the P2 character select screen with the game cleared and the Cyborg version of Kuro unlocked
+Starts on the P2 character select screen with the game cleared and the Cyborg version of Kuro unlocked.
 Based on a save game file courtesy of the user "SaveConverter" on GameFAQs
