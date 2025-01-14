@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-Puyo Puyo Sun - Ketteiban (Japan)
+Puyo Puyo Sun - Ketteiban (Japan) (Rev 1)
 
 **Game ID:**
 
