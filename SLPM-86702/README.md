@@ -18,5 +18,5 @@ BIN MD5: 1bccfafb3d7b01aa3599cb1e54faa57a
 
 **Description:**
 
-starts in mode select with all characters unlocked
+Starts in mode select with all characters unlocked
 Based on a save file courtesy of the user "lucha_puroresu" on GameFAQs
