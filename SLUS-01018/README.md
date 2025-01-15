@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-Ms. Pac-Man Maze Madness (USA)
+Ms. Pac-Man Maze Madness (USA) (Rev 1)
 
 **Game ID:**
 
