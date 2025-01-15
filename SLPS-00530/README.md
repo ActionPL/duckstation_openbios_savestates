@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-Puyo Puyo Tsuu - Ketteiban (Japan)
+Puyo Puyo Tsuu - Ketteiban (Japan) (Rev 1)
 
 **Game ID:**
 
