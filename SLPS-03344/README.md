@@ -18,4 +18,4 @@ BIN MD5: ccdc7dfd1f6fdbb8042a2137807e01f6
 
 **Description:**
 
-starts at the vs. mode character select screen with all known characters unlocked
+Starts at the vs. mode character select screen with all known characters unlocked
