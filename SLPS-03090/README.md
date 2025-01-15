@@ -18,5 +18,5 @@ BIN MD5: c47bb57d473ef3d5d703c426b60dd080
 
 **Description:**
 
-starts in the VS. mode character selection screen with everything unlocked
+Starts in the VS. mode character selection screen with everything unlocked
 based on a save game courtesy of the user "Heero_Yuy" on GameFAQs
