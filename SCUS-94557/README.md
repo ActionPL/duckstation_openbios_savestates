@@ -1,0 +1,23 @@
+**Game name:**
+
+NCAA GameBreaker 2000 (USA)
+
+**Game ID:**
+
+SCUS-94557
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 647020661EF6AC205309D807F161A0866E3965C6
+
+BIN (TRACK 01) MD5: 7BD8EBA0F289F88D46748C87478C1035
+
+BIN (TRACK 02) MD5: 25593FED94B66C894AE864E746AFD12E
+
+**Description:**
+
+Starts at main menu with "PLAY GAME" option highlighted.
