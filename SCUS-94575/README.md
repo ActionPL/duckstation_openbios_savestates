@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL GameDay 2001 (USA)
+
+**Game ID:**
+
+SCUS-94575
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4496B10C3A0EA7F6BD58BC14AD2447BA126DE58E
+
+BIN (TRACK 01) MD5: 1C3FD53621481F505FD6ACB2E6AC69E5
+
+BIN (TRACK 02) MD5: C1847ACD0EA631AEFBE4EC499F795BFE
+
+**Description:**
+
+Starts at main menu with "PRESEASON" option highlighted.
