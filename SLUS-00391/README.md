@@ -1,0 +1,23 @@
+**Game name:**
+
+NHL Breakaway 98 (USA)
+
+**Game ID:**
+
+SLUS-00391
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4CB9B6BF64E72181E8B15734A8B668156FAD4E3F
+
+BIN (TRACK 01) MD5: 57882060860F923ACBE4F77EDD43736E
+
+BIN (TRACK 02) MD5: 88AA16698A904E9841F2279A4E9BEB23
+
+**Description:**
+
+Starts at main menu with "EXHIBITION" option highlighted.
