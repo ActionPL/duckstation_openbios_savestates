@@ -1,0 +1,23 @@
+**Game name:**
+
+NBA Jam Extreme (USA)
+
+**Game ID:**
+
+SLUS-00388
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4440BFA8B805F5A1AF81E73CFB069F1CAEDA86CE
+
+BIN (TRACK 01) MD5: A9175BF214CB38F518FC36C3C072A44E
+
+BIN (TRACK 02) MD5: 092A1D1E6932A3C99426B9020C8EF8FB
+
+**Description:**
+
+Starts at main menu with "START GAME" option highlighted.
