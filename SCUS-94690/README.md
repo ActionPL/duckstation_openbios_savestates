@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL GameDay 2004 (USA)
+
+**Game ID:**
+
+SCUS-94690
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5AD4F1A420F037F306E65037980BC32F8C07D313
+
+BIN (TRACK 01) MD5: 465046EAF2B2B8F1A47000DE6ED0B062
+
+BIN (TRACK 02) MD5: 77F5489CFD54A63C5640F05DDA957929
+
+**Description:**
+
+Starts at main menu with "EXHIBITION" option highlighted.
