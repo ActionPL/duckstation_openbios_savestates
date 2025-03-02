@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA March Madness 99 (USA)
+
+**Game ID:**
+
+SLUS-00805
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 082FDD1C65A2E131AE251B453AFFB87A465A13EB
+
+BIN (TRACK 01) MD5: 4BA836E7554D3B5873DABAD1C5173F16
+
+**Description:**
+
