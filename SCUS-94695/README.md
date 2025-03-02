@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL GameDay 2005 (USA)
+
+**Game ID:**
+
+SCUS-94695
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 94E86A234884088EE679AAE870CD786E1BBCDD49
+
+BIN (TRACK 01) MD5: 2208603EBD092079BBC09412E9659976
+
+BIN (TRACK 02) MD5: 77F5489CFD54A63C5640F05DDA957929
+
+**Description:**
+
+Starts at main menu with "MODE" option highlighted.
