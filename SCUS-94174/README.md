@@ -1,0 +1,21 @@
+**Game name:**
+
+NHL FaceOff 98 (USA)
+
+**Game ID:**
+
+SCUS-94174
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5BA2DA064DCAC86F241CC5CAE93FE7B03E388AB6
+
+BIN (TRACK 01) MD5: 63932125ABE942834E72E79F82C949FA
+
+**Description:**
+
+Starts in SELECT GAME mode with "EXHIBITION" option highlighted.
