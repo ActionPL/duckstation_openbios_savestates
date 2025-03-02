@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL GameDay 98 (USA)
+
+**Game ID:**
+
+SCUS-94173
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3D4AE4A860D578A3975CF50326CF908590D73720
+
+BIN (TRACK 01) MD5: D3E6733606CA5657C5BAD68A8072D8DF
+
+BIN (TRACK 02) MD5: 4DB6784CB2FE97B43F74C5A49B6C0675
+
+**Description:**
+
+Starts at main menu with "preseason" option highlighted.
