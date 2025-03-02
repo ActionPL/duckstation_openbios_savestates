@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL Quarterback Club 97 (USA)
+
+**Game ID:**
+
+SLUS-00011
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E313DBE48FC98F648FDC7F5C4BD5CCA9A5669BC3
+
+BIN (TRACK 01) MD5: 5768782C7ACD1573D5F44D7B8CC1A905
+
+BIN (TRACK 02) MD5: 88AA16698A904E9841F2279A4E9BEB23
+
+**Description:**
+
+Starts at main menu with "PRESEASON" option highlighted.
