@@ -1,0 +1,23 @@
+**Game name:**
+
+NBA ShootOut 2004 (USA)
+
+**Game ID:**
+
+SCUS-94691
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FBEE27B540D07355A8C57B10ABF3E77A97B4C5EA
+
+BIN (TRACK 01) MD5: ECE2C9941DD2FC7C829ED480F0B26215
+
+BIN (TRACK 02) MD5: 086FE7AD55F249EB23D72A7E869E1BFD
+
+**Description:**
+
+Starts at main menu with "Select Game" option highlighted.
