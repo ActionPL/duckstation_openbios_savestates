@@ -1,0 +1,23 @@
+**Game name:**
+
+NBA ShootOut 2001 (USA)
+
+**Game ID:**
+
+SCUS-94581
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A930B302FDDAA2718469D3478AA2FD307D0FA801
+
+BIN (TRACK 01) MD5: B8B8FFE3304A1607822826A778DE9099
+
+BIN (TRACK 02) MD5: DB8EE7ED342E71E18BF82168D4ECDFF8
+
+**Description:**
+
+Starts at main menu with "Select Game" option highlighted.
