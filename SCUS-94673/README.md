@@ -1,0 +1,23 @@
+**Game name:**
+
+NBA ShootOut 2003 (USA)
+
+**Game ID:**
+
+SCUS-94673
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E3BAFA08A86BB8A02493A9C547D656ED7DDF467A
+
+BIN (TRACK 01) MD5: E3743E9B698CD91E0FB1163DCB6F3E66
+
+BIN (TRACK 02) MD5: 7D0EFFEF1AE9D9455E73B71B1C81B48A
+
+**Description:**
+
+Starts at main menu with "Select Game" option highlighted.
