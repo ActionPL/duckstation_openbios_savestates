@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL Xtreme (USA)
+
+**Game ID:**
+
+SCUS-94245
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CD4C2E31C6670C04DF009A85295967E466A143BC
+
+BIN (TRACK 01) MD5: C57C5763994F1E23F847A2FB7385C5F0
+
+BIN (TRACK 02) MD5: DC7FD6EFE38523A05284603325B71F61
+
+**Description:**
+
+Starts at main menu with "SELECT GAME" option highlighted.
