@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL GameDay 2000 (USA)
+
+**Game ID:**
+
+SCUS-94556
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C2824E1003159AB61B1DC6EA817698E9C5AC22A9
+
+BIN (TRACK 01) MD5: AA6B542A4EE2E256E1481C904B05B440
+
+BIN (TRACK 02) MD5: 25593FED94B66C894AE864E746AFD12E
+
+**Description:**
+
+Starts at main menu with "PRESEASON" option highlighted.
