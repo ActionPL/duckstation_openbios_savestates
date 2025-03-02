@@ -1,0 +1,23 @@
+**Game name:**
+
+NCAA GameBreaker 2001 (USA)
+
+**Game ID:**
+
+SCUS-94573
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F22B3069A564073E48C673EB2B721C3F5AECA983
+
+BIN (TRACK 01) MD5: 392F77222427D8747A9BA9025C1D5645
+
+BIN (TRACK 02) MD5: 25593FED94B66C894AE864E746AFD12E
+
+**Description:**
+
+Starts at main menu with "PLAY GAME" option highlighted.
