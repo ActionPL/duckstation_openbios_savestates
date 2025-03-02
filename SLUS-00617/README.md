@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL Blitz (USA)
+
+**Game ID:**
+
+SLUS-00617
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AE5BE8CA907C30A12D32ED86336C35B1310137D7
+
+BIN (TRACK 01) MD5: A2651F46C24DA560A377F8AB48CFB7A4
+
+BIN (TRACK 02) MD5: B55889A7E26B8A0EE9A27DD002D33485
+
+**Description:**
+
+Starts at main menu with "ARCADE PLAY" option highlighted.
