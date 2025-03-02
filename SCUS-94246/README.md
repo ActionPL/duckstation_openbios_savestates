@@ -1,0 +1,23 @@
+**Game name:**
+
+NCAA GameBreaker 99 (USA)
+
+**Game ID:**
+
+SCUS-94246
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E34C68577C20298C3D88583047AD95541415F593
+
+BIN (TRACK 01) MD5: DDD0E176F32E158097E861E125DBD49B
+
+BIN (TRACK 02) MD5: 25593FED94B66C894AE864E746AFD12E
+
+**Description:**
+
+Starts at main menu with "PLAY GAME" option highlighted.
