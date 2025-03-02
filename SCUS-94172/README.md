@@ -1,0 +1,23 @@
+**Game name:**
+
+NCAA GameBreaker 98 (USA)
+
+**Game ID:**
+
+SCUS-94172
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B10AE2AA1C6574CA9F2C2CDB1754F63A3EB0BFFD
+
+BIN (TRACK 01) MD5: 295927C0527A76F8F0513EF54A121B03
+
+BIN (TRACK 02) MD5: E6D767299D6962501839EFF830CE7E36
+
+**Description:**
+
+Starts at main menu with "PLAY GAME" option highlighted.
