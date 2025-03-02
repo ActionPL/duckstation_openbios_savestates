@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL GameDay 2003 (USA)
+
+**Game ID:**
+
+SCUS-94665
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A27149171411921695A75E04822809120A7F6649
+
+BIN (TRACK 01) MD5: 7D87EC810810C76A10F1A1A45B8C0BE4
+
+BIN (TRACK 02) MD5: 77F5489CFD54A63C5640F05DDA957929
+
+**Description:**
+
+Starts at main menu with "EXHIBITION" option highlighted.
