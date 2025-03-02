@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL GameDay (USA)
+
+**Game ID:**
+
+SCUS-94505
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 955D7476BACB6746EA6E41657F97A5E44AED88BD
+
+BIN (TRACK 01) MD5: AECD054F2CF8E14A0F88A94E8C5B8F07
+
+BIN (TRACK 02) MD5: 4EE5E9152689233A13CEA48C360183E1
+
+**Description:**
+
+Starts at main menu with "START" option highlighted.
