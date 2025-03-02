@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL Xtreme 2 (USA)
+
+**Game ID:**
+
+SCUS-94420
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BE4F52C856778B1873422756662FDCA894571A22
+
+BIN (TRACK 01) MD5: EF3EAF4E6FEBC0534488DF2B21DF5177
+
+BIN (TRACK 02) MD5: 598EF9A85A35997703282DDDF60B8086
+
+**Description:**
+
+Starts at main menu with QUICK START option highlighted.
