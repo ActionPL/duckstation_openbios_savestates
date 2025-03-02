@@ -1,0 +1,23 @@
+**Game name:**
+
+NHL Powerplay 98 (USA) (En,Fr,De)
+
+**Game ID:**
+
+SLUS-00528
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9071289572CA678AAA6AA153E7C7767E0B0E5306
+
+BIN (TRACK 01) MD5: 8803890C62984A93FDB463345433C173
+
+BIN (TRACK 02) MD5: E83C73E62DD0826A6966ABBB63FE20FD
+
+**Description:**
+
+Starts in START GAME mode with "EXHIBITION" option highlighted.
