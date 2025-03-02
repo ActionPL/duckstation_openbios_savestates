@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL GameDay 97 (USA)
+
+**Game ID:**
+
+SCUS-94510
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0EC88A412E878719589EF240778B3C456062DC15
+
+BIN (TRACK 01) MD5: 95D247C9CC784AC99FECFBDEAB9D22EB
+
+BIN (TRACK 02) MD5: 188FE1C91560939BEB6CF958DDC3151F
+
+**Description:**
+
+Starts at main menu with "PRE-SEASON" option highlighted.
