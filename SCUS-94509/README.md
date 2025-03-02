@@ -1,0 +1,23 @@
+**Game name:**
+
+NCAA Football GameBreaker (USA)
+
+**Game ID:**
+
+SCUS-94509
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 85BC1C887AFDFEEDAE2F1FCF2E9A8490BC1D8002
+
+BIN (TRACK 01) MD5: 86932E07028861415A2AE1E95EF89C13
+
+BIN (TRACK 02) MD5: 77D98058E8A0E265E5DC7498CB69789D
+
+**Description:**
+
+Starts at main menu with "EXHIBITION" option highlighted.
