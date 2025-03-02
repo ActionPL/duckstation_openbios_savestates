@@ -1,0 +1,23 @@
+**Game name:**
+
+NBA ShootOut 2000 (USA)
+
+**Game ID:**
+
+SCUS-94561
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BE91ECEB26BED381F2EDF1DC0AFD65F64906882C
+
+BIN (TRACK 01) MD5: 3501649446DEC06E8DB33A5226FF09B2
+
+BIN (TRACK 02) MD5: C1406883A55C4B2AE0547DEFE544AA1B
+
+**Description:**
+
+Starts at main menu with "Select Game" option highlighted.
