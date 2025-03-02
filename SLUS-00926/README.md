@@ -1,0 +1,23 @@
+**Game name:**
+
+NBA Basketball 2000 (USA)
+
+**Game ID:**
+
+SLUS-00926
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6F24D0C997996B43C62D6F167CE1EAF9D1A21566
+
+BIN (TRACK 01) MD5: 1F56DF9359943893A6599991C10AECEA
+
+BIN (TRACK 02) MD5: 2D7B5E8E94A91BF5423B2356F6A34863
+
+**Description:**
+
+Starts at main menu with "Choose Teams" option highlighted.
