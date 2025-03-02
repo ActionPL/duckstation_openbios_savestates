@@ -1,0 +1,23 @@
+**Game name:**
+
+NFL GameDay 99 (USA) (Rev 1)
+
+**Game ID:**
+
+SCUS-94234
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2A4A2B7CFC9E5F3132F4D4097A596FF729B661A6
+
+BIN (TRACK 01) MD5: 2C76A10E1F551818CD568014DD47D129
+
+BIN (TRACK 02) MD5: 25593FED94B66C894AE864E746AFD12E
+
+**Description:**
+
+Starts at main menu with "PRESEASON" option highlighted.
