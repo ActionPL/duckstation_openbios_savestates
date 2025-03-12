@@ -20,4 +20,4 @@ BIN (TRACK 02) MD5: 45f23389881019055973bb125c592e0d
 
 **Description:**
 
-Starts in main menu with 2 Players and STROKEPLAY selected.
+Starts in main menu with 2 Players and STROKEPLAY selected
