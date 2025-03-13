@@ -18,4 +18,4 @@ BIN MD5: 7512c944cfdb8d1394873377df4a4cf6
 
 **Description:**
 
-All maps, characters and secrets unlocked. Starts at main menu with "MULTIPLAYER" option highlighted.
+All maps, characters and secrets unlocked. Starts at main menu with "MULTIPLAYER" option highlighted
