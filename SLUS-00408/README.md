@@ -1,0 +1,33 @@
+**Game name:**
+
+Power Move Pro Wrestling (USA)
+
+**Game ID:**
+
+SLUS-00408
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A9020FF4E57DB46D2FCE51877C14EB3F98274506
+
+BIN (TRACK 01) MD5: 0c7f3e2b4eeca644c2c19590f490393c
+
+BIN (TRACK 02) MD5: 76568de691dfbed39a14c2a230322d2e
+
+BIN (TRACK 03) MD5: 4a5c3ec12403be615529b7be4f6a2f9b
+
+BIN (TRACK 04) MD5: ba191bdc793a4e88c3666fc3aa643ac5
+
+BIN (TRACK 05) MD5: 3c0c2e6f7e78cc2685b3f78a28491bea
+
+BIN (TRACK 06) MD5: f92276e4d1f405d12a36e2c43ecbb313
+
+BIN (TRACK 07) MD5: 7dbf9c3bcf1ce031fe845653794c2d5c
+
+**Description:**
+
+Starts at main menu with "2 PLAYER" option highlighted.
