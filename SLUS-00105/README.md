@@ -1,0 +1,37 @@
+**Game name:**
+
+Power Serve 3D Tennis (USA)
+
+**Game ID:**
+
+SLUS-00105
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1C722D5CF534894F3ED2B3CD0F8CA227024E63BB
+
+BIN (TRACK 01) MD5: cbecf90b10534f197cacd2a5ee72f9fc
+
+BIN (TRACK 02) MD5: 4ae8ca9a014ccdc6c3fa9f644f602152
+
+BIN (TRACK 03) MD5: 9e56506ee81462c09cedef4685a338a2
+
+BIN (TRACK 04) MD5: 1ad1f83322eded405c792a2d5fca9118
+
+BIN (TRACK 05) MD5: e5bf72e2791fb9fdb741a506ad963572
+
+BIN (TRACK 06) MD5: 5b5d1620cdc955232ef94be7ecbd87ec
+
+BIN (TRACK 07) MD5: 375e7ca617df0d32e04fb97a29225ec5
+
+BIN (TRACK 08) MD5: 0d3fca6a089bca689de36ec29ee9fbce
+
+BIN (TRACK 09) MD5: 4f1a252c346a808daaec9c2c0789c3d6
+
+**Description:**
+
+Starts in GAME mode with Select GameStyle menu.
