@@ -1,0 +1,43 @@
+**Game name:**
+
+Peak Performance (USA)
+
+**Game ID:**
+
+SLUS-00400
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9E60BE616C9BA016FF094A0953379A8DD905E802
+
+BIN (TRACK 01) MD5: d34bff9dda0c7e2161c2742abf307ec6
+
+BIN (TRACK 02) MD5: 3be66fd1f45391cc2ad3e672db1d95b2
+
+BIN (TRACK 03) MD5: e231272088bbfa0fad21cb6f187c14ab
+
+BIN (TRACK 04) MD5: 461d91c2cfc1a8884e1901b5c18e5496
+
+BIN (TRACK 05) MD5: ad7e8737dae8706f8fabdb7874744803
+
+BIN (TRACK 06) MD5: a902ae5c38f89838ede9aaff83aec692
+
+BIN (TRACK 07) MD5: 169df7ba62e52d2e5f1792d99e1b9cf5
+
+BIN (TRACK 08) MD5: 28189b3fcfb02b19d007df6ce9ceef69
+
+BIN (TRACK 09) MD5: b1bd1b264573fc829a14b2b760034a5c
+
+BIN (TRACK 10) MD5: d050bbad329c0adebd7639c3c2e6711a
+
+BIN (TRACK 11) MD5: aef398e2082441792940f9c85e63db57
+
+BIN (TRACK 12) MD5: cfebdddd9d3b93f14256d4a7c2cf3cc8
+
+**Description:**
+
+All cars unlocked. Starts at main menu with "2P RACE" option highlighted.
