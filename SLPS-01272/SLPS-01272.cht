@@ -1,0 +1,12 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Rikimaru Co-op Code]
+8008BFB0 0000
+8008BFB2 2222
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Lock Layout C]
+800100E9 0002
