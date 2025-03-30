@@ -1,0 +1,41 @@
+**Game name:**
+
+Rise 2 - Resurrection (USA) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLUS-00186
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FEABCD61E09744AA142D3409AD09875B5C7C53FF
+
+BIN (TRACK 01) MD5: 43385d3d6ba7411cdc6a33838ba9fbee
+
+BIN (TRACK 02) MD5: f150db68a0b8b30ba5ecb861af49afc2
+
+BIN (TRACK 03) MD5: 89c3f93c2b25de83e14663fae00a3f0b
+
+BIN (TRACK 04) MD5: 6bef0f3ddbf9d79b79f219b1dbe5edfd
+
+BIN (TRACK 05) MD5: 22e058c6771a5b5f0931c071dad94c1e
+
+BIN (TRACK 06) MD5: 234d255b7733b4067e645097afc83ac9
+
+BIN (TRACK 07) MD5: c9ada63d01dc68e905de5867a31db5c5
+
+BIN (TRACK 08) MD5: eba0bf1e6cb991cc32f6301ff3610cdb
+
+BIN (TRACK 09) MD5: 53d0d9e5e3d3aace8b34836080366367
+
+BIN (TRACK 10) MD5: 77441aa35f2b5c07b91a0e6d0d7b9fd2
+
+BIN (TRACK 11) MD5: 64a2f395c1dc85407d7a2b1038991e58
+
+**Description:**
+
+All characters unlocked. Starts at main menu with "START" option highlighted.
