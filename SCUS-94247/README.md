@@ -1,0 +1,39 @@
+**Game name:**
+
+Rally Cross 2 (USA)
+
+**Game ID:**
+
+SCUS-94247
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 611EC553BCE37203540E6C0A5CBE24A8A9D37F4A
+
+BIN (TRACK 01) MD5: b4abcf3b22a4416643a5cf4219c501c2
+
+BIN (TRACK 02) MD5: 961a622c3fa944579fd8f5c81284474d
+
+BIN (TRACK 03) MD5: 6bec1a3942eabd85a925cbd4d1edc7fa
+
+BIN (TRACK 04) MD5: a92c44c5a43e2cbd8f9d3efc61399260
+
+BIN (TRACK 05) MD5: 558f8d4b4e4cfdf6ad319564bced601c
+
+BIN (TRACK 06) MD5: 90558717fbde251bb4ec2925652b592e
+
+BIN (TRACK 07) MD5: f1432983990561fc017b756dae5c3e37
+
+BIN (TRACK 08) MD5: e7a08500c7e749bd2cdf98d3bc75de4d
+
+BIN (TRACK 09) MD5: bc9734f60dafc098a38617377991184f
+
+BIN (TRACK 10) MD5: 961a622c3fa944579fd8f5c81284474d
+
+**Description:**
+
+All cars and tracks unlocked. Starts at main menu with "race" option highlighted.
