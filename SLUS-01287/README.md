@@ -1,0 +1,39 @@
+**Game name:**
+
+Snowboarding (USA)
+
+**Game ID:**
+
+SLUS-01287
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7843DB6ABB7307E882452F26DA681ED13B46D86C
+
+BIN (TRACK 01) MD5: 1bfdb05dd186aeb1a6bbf1fd7dea5bdf
+
+BIN (TRACK 02) MD5: c2c14513792fd15930b67bed220cd2ee
+
+BIN (TRACK 03) MD5: 714b115f184cada24eb7601020c9f762
+
+BIN (TRACK 04) MD5: 24c61563474eab68220aa287c75ca75d
+
+BIN (TRACK 05) MD5: 7eb56eb245a678b771afe26b794f5e98
+
+BIN (TRACK 06) MD5: 8ab5554e15b05595d56bd827bb1debb7
+
+BIN (TRACK 07) MD5: 9e1d9d8952a20f693d5c1525b49547cf
+
+BIN (TRACK 08) MD5: 621e05ede4db2524c826a29ac2ff344f
+
+BIN (TRACK 09) MD5: 0f27e3500798991d4f887794cfe4f9ef
+
+BIN (TRACK 10) MD5: 65aea234c174ee35fb574d981fe3fc4f
+
+**Description:**
+
+All tracks unlocked. Starts at main menu with "Race" option highlighted.
