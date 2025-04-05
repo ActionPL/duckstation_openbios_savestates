@@ -1,0 +1,39 @@
+**Game name:**
+
+SuperCross Circuit (USA)
+
+**Game ID:**
+
+SCUS-94453
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9eba4774e25c61f79fcd8b5e4117d5ecfa238515
+
+BIN (TRACK 01) MD5: 06df3f89230a41fdeecf43a4f44557d8
+
+BIN (TRACK 02) MD5: 3f78a19077fb50914220020e56385a91
+
+BIN (TRACK 03) MD5: 0f0f43e2e7eb40022025c5b2f0082dc5
+
+BIN (TRACK 04) MD5: 7bc1d78a5b297d90e808a5dc24ec8a2f
+
+BIN (TRACK 05) MD5: 3b4eba700e1e518c81abd2a592a7f561
+
+BIN (TRACK 06) MD5: 2fa1a66034752eec8200f7f6e6fcfa3f
+
+BIN (TRACK 07) MD5: 609dc492f0c45b191925b51d2ce02a4a
+
+BIN (TRACK 08) MD5: e114266cd805fe277d71f24a969bb765
+
+BIN (TRACK 09) MD5: 1a1ee0b3a3c74732f38ed257c9050b1a
+
+BIN (TRACK 10) MD5: 0f0f43e2e7eb40022025c5b2f0082dc5
+
+**Description:**
+
+Everything unlocked. Starts in ARCADE MODE menu with "SINGLE RACE" option highlighted.
