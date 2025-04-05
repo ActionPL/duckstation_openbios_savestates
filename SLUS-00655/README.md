@@ -1,0 +1,45 @@
+**Game name:**
+
+Sports Car GT (USA)
+
+**Game ID:**
+
+SLUS-00655
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6DEF9D738D050A68D9C0F914B8307787482CEAAB
+
+BIN (TRACK 01) MD5: 59aee21d3f85ba96eb51267bab8c2495
+
+BIN (TRACK 02) MD5: d6a8712eac8c0aa6c3a31abbabf22a48
+
+BIN (TRACK 03) MD5: fe50abf49e5e425c409e90aba77b21cc
+
+BIN (TRACK 04) MD5: fbf8eb591009b2ca74fd7a98feb23541
+
+BIN (TRACK 05) MD5: e5d9064915a07395211247cf4809b595
+
+BIN (TRACK 06) MD5: 86166ed28e8e9a8cb7904534cca9e5df
+
+BIN (TRACK 07) MD5: dcca7beda8cd664c6f5ef4d7e3f544ed
+
+BIN (TRACK 08) MD5: abaef1c9e30405a8ad6ec13e72e45e42
+
+BIN (TRACK 09) MD5: c572a6c023a0cc65e3fa1d2763a46e92
+
+BIN (TRACK 10) MD5: 3fa880fb9b44eb3fb9e2ec48585b04af
+
+BIN (TRACK 11) MD5: ac190b5604fab6b37cb9a363574b6953
+
+BIN (TRACK 12) MD5: f2a7c6e10f61189b9ed62fad7dd57641
+
+BIN (TRACK 13) MD5: 23c5ad6baf60c70f1dfd43d18f255b7e
+
+**Description:**
+
+All cars and tracks unlocked. Starts at main menu with "TWO PLAYER" option highlighted.
