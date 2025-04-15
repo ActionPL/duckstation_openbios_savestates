@@ -1,0 +1,37 @@
+**Game name:**
+
+Turbo Prop Racing (USA)
+
+**Game ID:**
+
+SCUS-94229
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6E50635E346FA25F2469F2CCDA83EF6AABBD71EE
+
+BIN (TRACK 01) MD5: 8dad788c6b313a866b768831b8210a4f
+
+BIN (TRACK 02) MD5: 19ec8152ca9628b622ceab6066383969
+
+BIN (TRACK 03) MD5: 01f6aad146f271ce513ee0607faa85d2
+
+BIN (TRACK 04) MD5: 9bb6dec66d06b89e20ab814d9d31f811
+
+BIN (TRACK 05) MD5: 35b04375b82d28dd464585d016cf9bc1
+
+BIN (TRACK 06) MD5: 7a549b47278aa15b511a5477010ecff5
+
+BIN (TRACK 07) MD5: 71a753a41b2ac893fec99f708137b2a9
+
+BIN (TRACK 08) MD5: b6bb6911a5f680e2e0b3240e49aad2c1
+
+BIN (TRACK 09) MD5: b6bb6911a5f680e2e0b3240e49aad2c1
+
+**Description:**
+
+Everything unlocked. Starts at main menu with "2 players" option highlighted.
