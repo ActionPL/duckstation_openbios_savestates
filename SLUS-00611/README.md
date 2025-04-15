@@ -1,0 +1,35 @@
+**Game name:**
+
+TOCA Championship Racing (USA) (En,Es)
+
+**Game ID:**
+
+SLUS-00611
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D25D2C01B7288EE001F0B7165DEFB111DB6E30FB
+
+BIN (TRACK 01) MD5: 1b7df84884f1604bd2f63dd6d6b69df0
+
+BIN (TRACK 02) MD5: f8ae0756894b8fd643188cfdee1a8dfd
+
+BIN (TRACK 03) MD5: 53f058837467d0dc854e1b636829236e
+
+BIN (TRACK 04) MD5: 02ba70af1876d0bb74269bd2762b57c2
+
+BIN (TRACK 05) MD5: e2fdbcd13725453dc75d273b1a0f8de8
+
+BIN (TRACK 06) MD5: a81a6a5e21e69678b1c7551d5a02b7d9
+
+BIN (TRACK 07) MD5: 1af16e5e3b0c9c570386517179aa615f
+
+BIN (TRACK 08) MD5: 53f058837467d0dc854e1b636829236e
+
+**Description:**
+
+Everything unlocked. Starts at main menu with "START RACE" option highlighted. 
