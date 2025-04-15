@@ -1,0 +1,39 @@
+**Game name:**
+
+Tyco R-C - Assault with a Battery (USA)
+
+**Game ID:**
+
+SLUS-01074
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A6CBC8650575AD46894CBA72FF06CD34751F7F90
+
+BIN (TRACK 01) MD5: d0b64d752453356f6c7784e17ae5a1cb
+
+BIN (TRACK 02) MD5: 7c7c19b93230f54a2b43a4de7ca0c799
+
+BIN (TRACK 03) MD5: 9cfaca995ee45f69365970f57df2b3a8
+
+BIN (TRACK 04) MD5: 7f46beadb205e67a2437831ad6889ec0
+
+BIN (TRACK 05) MD5: caf277f460e3241b707e7cf922b46875
+
+BIN (TRACK 06) MD5: 9db0c0cc65532a6c1f846d0117f36fa0
+
+BIN (TRACK 07) MD5: 464f9a92959ea8cf29842b60f3a63fc8
+
+BIN (TRACK 08) MD5: fcfdf46d46085c154f1014d6ab4066d2
+
+BIN (TRACK 09) MD5: d46a7122dc0dab341dbccb6ea950ba41
+
+BIN (TRACK 10) MD5: fe96bf7fc6cc4d522907b775b32771eb
+
+**Description:**
+
+Everything unlocked. Starts at mode select screen.
