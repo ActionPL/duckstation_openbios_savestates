@@ -1,6 +1,6 @@
 **Game name:**
 
-Gundam Battle Assault 2: ComboKyo Edition V1RC4
+Gundam Battle Assault 2 (USA) [ComboKyo Edition V1RC4]
 
 **Game ID:**
 
@@ -12,9 +12,9 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: ae895e4699c8c229b6933eac8a266beb34cf4a1b
+CHD DATA SHA1: F79B93F41985EAEC574DD21DB6D725D1524D1772
 
-BIN (TRACK 01) MD5: 1708853bb69e1cb162398455fb67be08
+BIN (TRACK 01) MD5: c3bd240f7b0ef82b365590f2ca18ee22
 
 BIN (TRACK 02) MD5: 2d7b5e8e94a91bf5423b2356f6a34863
 
