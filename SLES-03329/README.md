@@ -1,0 +1,37 @@
+**Game name:**
+
+Windsurfers Paradise (Europe) (En,Fr,De)
+
+**Game ID:**
+
+SLES-03329
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D9BB625F4CEF7BC91D1FE90D2BCDF5588B4300DD
+
+BIN (TRACK 01) MD5: f5c396831260a0ac948b0b59bb973b09
+
+BIN (TRACK 02) MD5: 40b5fe07be369c1878225cc4bfca523a
+
+BIN (TRACK 03) MD5: 1387425cc0f19636f1180f5385a0eda1
+
+BIN (TRACK 04) MD5: 9249dec5b41f725091bbe3480f5420e4
+
+BIN (TRACK 05) MD5: f2679c6c7b8ac99b629c046e7af398eb
+
+BIN (TRACK 06) MD5: fb53a30ab842f012a74d474d9064300d
+
+BIN (TRACK 07) MD5: 4f08890491801d80c63b3b2635db9c7c
+
+BIN (TRACK 08) MD5: b55789e7807ccaaef59ff90e3e832dc9
+
+BIN (TRACK 09) MD5: 30e19e1e887fc8d199fed42713b6dd4a
+
+**Description:**
+
+Starts at main menu with "FREERIDE" option highlighted.
