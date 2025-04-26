@@ -1,0 +1,31 @@
+**Game name:**
+
+World Tennis Stars (Europe)
+
+**Game ID:**
+
+SLES-04039
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D23B877DE1C2FF98E393FF433467736597763BB4
+
+BIN (TRACK 01) MD5: 1f43b5bd35a02c7d18fc6627684144f9
+
+BIN (TRACK 02) MD5: 3e37716e3427252c1ed7e5f4d5a534d9
+
+BIN (TRACK 03) MD5: b2fc24a54b7c710a543db2e6c4263c80
+
+BIN (TRACK 04) MD5: 3e37716e3427252c1ed7e5f4d5a534d9
+
+BIN (TRACK 05) MD5: b2fc24a54b7c710a543db2e6c4263c80
+
+BIN (TRACK 06) MD5: f4f62e8802236bdafc4b986e82e2f526
+
+**Description:**
+
+Starts at main menu with "HEAD TO HEAD" option highlighted.
