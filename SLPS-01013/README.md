@@ -4,7 +4,7 @@ Project Gaiaray (Japan, Asia)
 
 **Game ID:**
 
-SCPS-45136
+SLPS-01013
 
 **Game format:**
 
