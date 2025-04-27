@@ -18,5 +18,5 @@ BIN (TRACK 01) MD5: 66a64068a549ed75e1f07a4b1c9044ad
 
 **Description:**
 
-starts in 'VS. Mode' with all characters unlocked
+Starts in 'VS. Mode' with all characters unlocked
 based on a save file courtesy of N0tos
