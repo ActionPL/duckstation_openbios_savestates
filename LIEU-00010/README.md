@@ -1,0 +1,37 @@
+**Game name:**
+
+World Soccer Winning Eleven 2002 (Japan) [PW European Leagues 24/25]
+
+**Game ID:**
+
+LIEU-00010
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 117DA27152DE12B9EA7F835102D7AA2A675024C8
+
+BIN (TRACK 01) MD5: 1be4bd7525dbf95430d2374859505114
+
+BIN (TRACK 02) MD5: 2314d7f0142a60fd426235b7f82c007a
+
+BIN (TRACK 03) MD5: e5dae43d0e90f354ac80aab1ddf0cdc4
+
+BIN (TRACK 04) MD5: 93a10f09246746e4ab23f3178172cd0d
+
+BIN (TRACK 05) MD5: 9b5447b858b11dc2b83d5e2705a779f8
+
+BIN (TRACK 06) MD5: a1d26fd51e82bcbe3cf9f951a48a5888
+
+BIN (TRACK 07) MD5: b15c6c76f4ab7d943b068e848036d388
+
+BIN (TRACK 08) MD5: dd78b4277a7c53edf928e45508683950
+
+BIN (TRACK 09) MD5: e5bde4758a57e3cad8cbbf78abc251b1
+
+**Description:**
+
+Starts right after openbios boot screen.
