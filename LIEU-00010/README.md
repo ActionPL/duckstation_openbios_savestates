@@ -1,6 +1,6 @@
 **Game name:**
 
-World Soccer Winning Eleven 2002 (Japan) [PW European Leagues 24/25]
+World Soccer Winning Eleven 2002 (Japan) [PW EU Leagues 24/25]
 
 **Game ID:**
 
