@@ -18,4 +18,4 @@ BIN (TRACK 01) MD5: a4028675a789d0012a7ebf50f243baf1
 
 **Description:**
 
-begins at the 'VS. Mode' character select screen
+Begins at the 'VS. Mode' character select screen
