@@ -31,5 +31,6 @@ Option 3 - Party Configuration:
 This leads to a submenu which allows you to choose from 511 (!) preset party configurations! You can get access to everyone from generic troops, to Ajora and Teta! Unfortunatly, though, once you use this, you'll wipe whatever party config you previously had. No mixing and matching, it seems.
 
 Option 4 - ? No use
+
 Full info explaining the functions of each Debug Menu option can be found here: https://gamefaqs.gamespot.com/ps/197339-final-fantasy-tactics/faqs/3878
 Have fun!
