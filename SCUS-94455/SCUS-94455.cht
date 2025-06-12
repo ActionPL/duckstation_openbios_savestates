@@ -1,0 +1,217 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Metric units]
+A0052A64 801EF8EF
+80057010 0000
+A0052B20 00E7
+80057010 0000
+A71C6A27 706D6D6B
+A71C6A29 68682F
+A70F853D 7466006D
+A70F8435 626C676B
+A70F8474 626C676B
+A70F8476 662D2F6D
+A70F8478 2F746425
+A70F847A 64257072
+A70F847C 7072006D
+A70F8487 626C676B
+A70F8489 662D2F6D
+A70F848B 2F74257E
+A70F848D 257E7264
+A70F848F 72646D70
+A70F8491 6D700000
+A70F835A 626C676B
+A70F835C 662D006D
+A71C6EA9 706D6D6B
+A71C6EAB 68682F
+A71EF476 626C676B
+A71C2EA7 626C676B
+A71C2EA9 662D206D
+A71C2EAB 2074202F
+A71C2EAD 202F0000
+A403EC6C 2602021
+A702F6F4 B0D8A0C0
+A702F6F6 39233922
+A7030568 D0016
+A703056C FBDD8000
+00000000 FFFF
+A4020A74 3084007F
+A7018AC8 13030000
+A7018ACA 90000
+A7018AD0 30230000
+A7018AD2 463446
+A7018C0C 17C30000
+A7018C0E 234A8
+A7018C20 40230000
+A7018C22 620000
+A7019798 18230004
+A701979A 629683
+A70198B2 ACC3ACC4
+00000000 FFFF
+A4057010 260201C0
+A704D984 37C30000
+A704D986 69506
+A704D994 30230000
+A704D996 460000
+00000000 FFFF
+A40244EC 800229D8
+A701C968 48100000
+A701C974 302303A4
+A701C976 468D26
+A701C564 48100000
+A701C570 302303A4
+A701C572 468D26
+A701C808 40230000
+A701C80A 620000
+00000000 FFFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Slightly higher draw distance]
+A403EC6C 2602021
+A7020420 4810D
+A7020422 14400800
+00000000 FFFF
+
+# "Help" the game unload segments that normally are left unwritten to,
+# so further cheat detection is more reliable. This is safe as it overwrites dead code.
+# Localization changes
+# mph text -> km/h text (lap times)
+# ft text -> m text (Arcade)
+# lb text -> kg text (Arcade)
+# lb-ft text -> kgm text (Arcade)
+# lb-ft text -> kgm text (Arcade graph)
+# mph launch speed -> km/h launch speed text (License tests)
+# lb text -> kg text (Simulation garage)
+# lb-ft text -> kgm text (Simulation garage)
+# Code changes
+# mph text -> km/h text (speedometer)
+# Speed unit scaling
+# Weight unit scaling (Arcade)
+# Torque unit scaling (Arcade)
+# Torque graph scaling (Arcade)
+# Speed unit scaling (License tests)
+# Weight unit scaling (Simulation screens)
+# Torque unit scaling (Simulation screens)
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Use 8MB RAM for polygon buffers]
+A401F888 AEB40008
+D121F88A AEB4
+A7016A6C E8020
+D121F88A AEB4
+A7016A70 57000000
+D121F88A AEB4
+A7016A7C 30007
+D121F88A AEB4
+A7016A78 28210000
+D121F88A AEB4
+A7016A7A 2250000
+D121F88A AEB4
+A7016A88 80000000
+00000000 FFFF
+
+# Codes will be skipped if RAM mirroring is in place (8MB mode disabled)
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*16:9 Widescreen]
+A4052A64 801EF8EF
+8005D598 0000
+80057010 0000
+00000000 FFFF
+A4052B20 00E7
+8005D598 0000
+80057010 0000
+00000000 FFFF
+A4020A74 3084007F
+A701E55C FF80FF56
+A701E564 8000AA
+A70201A8 FF97FF74
+A70201B0 69008C
+A7015350 14001AA
+00000000 FFFF
+A401F888 AEB40008
+A70100D0 FF60FF2B
+A70100D4 A000D5
+00000000 FFFF
+A403EC6C 2602021
+A70295E4 FFC4FFB0
+A70295E8 3C0050
+00000000 FFFF
+A4057010 260201C0
+A7049736 A485A489
+A7049EB4 C8010A
+A7049EBC 302100C8
+A7049EBE A03406
+A704C100 C8010A
+A704C108 302100C8
+A704C10A A03406
+A704DFE8 0160
+A704DFEA 2405
+A704DFF4 22000C4
+A704DFF6 8FB2A485
+A704DFD0 16001D5
+A7050B80 FF50FF16
+A7050B88 B000EA
+00000000 FFFF
+A405D598 8005A5B4
+A705802C C8010A
+A7058034 302100C8
+A7058036 A03406
+A70588E0 C8010A
+A70588E8 302100C8
+A70588EA A03406
+A70599C4 16001D5
+00000000 FFFF
+A40244EC 800229D8
+A701CDF4 B30086
+A701CDFC FFCEFFDB
+A701CE04 3200258
+00000000 FFFF
+
+# "Help" the game unload segments that normally are left unwritten to,
+# so further cheat detection is more reliable. This is safe as it overwrites dead code.
+# Car Selection (Arcade)
+# Car Selection 2P Battle (Arcade)
+# Pre-race screen (Arcade)
+# Race
+# Race (Rear view mirror)
+# Post-race screen #1
+# a1 -> t1, *will* change visuals of some screens!
+# Other screens will get slightly resized to compensate for this.
+# Bonus screen (Licenses)
+# Use free space to re-fit li $a1, 160h \ sh $a1, C4h($a0)
+# Results screen
+# Post-race screen #2
+# Bonus screen (Trophy)
+# GT Mode screens (Simulation)
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Full detail AI cars (Needs 8MB RAM)]
+A401F888 AEB40008
+A7014344 405112
+A7014346 16A00800
+A7014348 30001
+00000000 FFFF
+
+# Re-enable tire smoke
+# Re-enable sky in the read view mirror
+# Re-enable rear view mirror
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*60 FPS]
+E01D5634 0002
+301D5634 0001
+A401F888 AEB40008
+A70168C8 20000
+A7019644 20000
+00000000 FFFF
+A003EC6C 2602021
+A7029548 20000
+
