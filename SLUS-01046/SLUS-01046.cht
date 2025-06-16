@@ -1,0 +1,63 @@
+#group=All Levels Unlocked + Skill Maxed Out
+#type=Gameshark
+#activation=EndFrame
+[*Plo Koon]
+300B2675 0001
+50000402 0000
+800B2676 0101
+300B267E 0001
+3008C9F7 0004
+50000402 0000
+8008C9F8 0404
+3008CA00 0004
+
+#group=All Levels Unlocked + Skill Maxed Out
+#type=Gameshark
+#activation=EndFrame
+[*Qui-Gon Jinn]
+300B2619 0001
+50000402 0000
+800B261A 0101
+300B2622 0001
+3008C9C1 0004
+50000402 0000
+8008C9C2 0404
+3008C9CA 0004
+
+#group=All Levels Unlocked + Skill Maxed Out
+#type=Gameshark
+#activation=EndFrame
+[*Mace Windu]
+300B2637 0001
+50000402 0000
+800B2638 0101
+300B2640 0001
+3008C9D3 0004
+50000402 0000
+8008C9D4 0404
+3008C9DB 0004
+
+#group=All Levels Unlocked + Skill Maxed Out
+#type=Gameshark
+#activation=EndFrame
+[*Obi-Wan Kenobi]
+300B25F9 0001
+50000402 0000
+800B25FA 0101
+300B2602 0001
+3008C9AF 0004
+50000402 0000
+8008C9B0 0404
+3008C9B8 0004
+
+#group=All Levels Unlocked + Skill Maxed Out
+#type=Gameshark
+#activation=EndFrame
+[*Ad Gallia]
+3008C9E5 0004
+50000402 0000
+8008C9E6 0404
+3008C9EE 0004
+50000502 0000
+800B2656 0101
+

@@ -1,0 +1,27 @@
+**Game name:**
+
+Uprising X (USA)
+
+**Game ID:**
+
+SLUS-00686
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FDB7ABFCC03ABEBE0793C8BE353522B0BF2DF4B8
+
+BIN (TRACK 01) MD5: 7894f15ef707816a724e3ab205607696
+
+BIN (TRACK 02) MD5: 08a033c38e6f35703d36cc64934a3f7a
+
+BIN (TRACK 03) MD5: ff5631a6e96f9a06d7e3461c31101601
+
+BIN (TRACK 04) MD5: 9488d571535c0178750019fb1ab1d625
+
+**Description:**
+
+Starts at main menu with "TWO PLAYER" option highlighted.

@@ -1,0 +1,37 @@
+**Game name:**
+
+XS Moto (USA)
+
+**Game ID:**
+
+SLUS-01506
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6AA0500FEF6A892CAB5A5EDD6A27F73147F0C2C3
+
+BIN (TRACK 01) MD5: 0ac359aee7e1ecf9822dd070457e97d0
+
+BIN (TRACK 02) MD5: b612ec3ca74a022167eecc3f6c5f6f6b
+
+BIN (TRACK 03) MD5: 54e0d15024b64bc4ab2e1c34aa9c2e17
+
+BIN (TRACK 04) MD5: e4d9b6d048246c4bf4ccdc717f4b70ef
+
+BIN (TRACK 05) MD5: c207328716a6c203f307af25636918e8
+
+BIN (TRACK 06) MD5: 58d518573ef7fce2c7e4f0fb217650a9
+
+BIN (TRACK 07) MD5: 5df4c1f8701d49cda325e56502a18721
+
+BIN (TRACK 08) MD5: 9c09acdb1d7121ace82b31cc7ed5c269
+
+BIN (TRACK 09) MD5: d824372e56f0600146859dc0e6b44cec
+
+**Description:**
+
+Everything unlocked. Starts at main menu with "2 Player Race" option highlighted.
