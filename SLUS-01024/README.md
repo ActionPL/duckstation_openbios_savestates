@@ -1,0 +1,37 @@
+**Game name:**
+
+Roadsters (USA)
+
+**Game ID:**
+
+SLUS-01024
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 67F4FEDF24B39E0875A3A6C2874947D931D2D3AF
+
+BIN (TRACK 01) MD5: 913dddb97340e6042b87f5df530261d4
+
+BIN (TRACK 02) MD5: e88f5213f47e43ab46189d1911f25372
+
+BIN (TRACK 03) MD5: 638d3b8ab19fddeb4032359804966625
+
+BIN (TRACK 04) MD5: 1b8abc584895582ff1cc760870f1f1db
+
+BIN (TRACK 05) MD5: 77287d670d0311338dec8dbe7f21b541
+
+BIN (TRACK 06) MD5: eda06ba31b265e54140c1d6eab061ccf
+
+BIN (TRACK 07) MD5: b7168d9976df43596546c56508d02aca
+
+BIN (TRACK 08) MD5: 9e95b5393ae0fe2a44d75967a3b2d028
+
+BIN (TRACK 09) MD5: b4635067b7e9d9cf9aadabe5c7a0809b
+
+**Description:**
+
+Everything unlocked. Starts at main menu with "Multi-player" option highlighted.

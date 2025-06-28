@@ -1,0 +1,22 @@
+**Game name:**
+
+Pro 18 - World Tour Golf (USA)
+
+**Game ID:**
+
+SLUS-00817
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 95349066D9801BD1E794DF0E5EE9EFCFF52FDA66
+
+BIN (TRACK 01) MD5: 1409ac014725b12f892dfdbd5996fd79
+
+BIN (TRACK 02) MD5: 6891f66e10fb8a98c32bb16eda468e84
+
+**Description:**
+

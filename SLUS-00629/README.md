@@ -1,0 +1,37 @@
+**Game name:**
+
+Streak Hoverboard Racing (USA)
+
+**Game ID:**
+
+SLUS-00629
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F7E672819B25EB384CBEFF8D06C2BB1D2ED57082
+
+BIN (TRACK 01) MD5: eed1cfbf94069d242923948b8a0e20aa
+
+BIN (TRACK 02) MD5: d765298616521d3df574d84bc4bfa5f1
+
+BIN (TRACK 03) MD5: d8b5dd3eeb199f1a6634069a45cd2695
+
+BIN (TRACK 04) MD5: 194d15ff82a976ddf86463778faf34fd
+
+BIN (TRACK 05) MD5: 61f49c8daaaf6c68ac41fc946684f47a
+
+BIN (TRACK 06) MD5: 8faf8c168059edea92f32a54a32b266c
+
+BIN (TRACK 07) MD5: 13612827f47c1002eaf29b1350c36d4a
+
+BIN (TRACK 08) MD5: 04e7edab2a50b746de9c1e7d5ac33246
+
+BIN (TRACK 09) MD5: 4f3b863445ca2478668d52811f5b106c
+
+**Description:**
+
+All characters unlocked. Starts at main menu with "2 PLAYERS" option highlighted.

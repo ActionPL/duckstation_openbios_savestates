@@ -76,4 +76,4 @@ BIN (TRACK 30) MD5: 6de31c9ad2ac63011b0d484e50f69876
 
 **Description:**
 
-Starts at main menu with "MORTAL KOMBAT" option highlighted.
+Starts at main menu with "2 ON 2 KOMBAT" option highlighted.

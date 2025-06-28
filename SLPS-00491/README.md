@@ -1,0 +1,55 @@
+**Game name:**
+
+Gen'ei Tougi - Shadow Struggle (Japan)
+
+**Game ID:**
+
+SLPS-00491
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EF6AA034B8914EB0C1162FA95FF785209BAC20E8
+
+BIN (TRACK 01) MD5: 22cbaa79e7ce4011dd52e1dbdda1dd19
+
+BIN (TRACK 02) MD5: e5e219e8c837de87473334c9d7f94c05
+
+BIN (TRACK 03) MD5: 44dfc70b32bd6784842d1cfb1e0bdaf7
+
+BIN (TRACK 04) MD5: 1ffd7889806cccf772a10be99eff87bf
+
+BIN (TRACK 05) MD5: 9e5eaeaf08d8e07e6ec328d3e9503f61
+
+BIN (TRACK 06) MD5: 279c2825c9d37723afaee8df815dd7cb
+
+BIN (TRACK 07) MD5: 4d124bd3ea0bebffabff6579f920912a
+
+BIN (TRACK 08) MD5: b76b978bff137dd7ad6ff734c5bb6643
+
+BIN (TRACK 09) MD5: b37917d73fd7a65357e8d60992ba25b2
+
+BIN (TRACK 10) MD5: 39afd14b86bceda287b329061ca54c5e
+
+BIN (TRACK 11) MD5: 5ec057b9b8ea0c8f8664ed0a01d182fb
+
+BIN (TRACK 12) MD5: 526de8c6237618665f593210f478cb5f
+
+BIN (TRACK 13) MD5: f6c7a63f9c88879b8eb827c46c7f4dc8
+
+BIN (TRACK 14) MD5: cb85a233c2b8986724bc64b0879db58d
+
+BIN (TRACK 15) MD5: 16e923bb65d9edde374e0037d2ac3291
+
+BIN (TRACK 16) MD5: 7c3ccfafd0686f2c870ed6a83e64b655
+
+BIN (TRACK 17) MD5: 2f0a1010f00214985432e4cbea30c157
+
+BIN (TRACK 18) MD5: fe1309c5db89bd07a69d385eb336b940
+
+**Description:**
+
+All characters unlocked. Rounds: 2, Time: 60 seconds. Starts at main menu with "VS GAME" option highligted.

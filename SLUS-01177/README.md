@@ -1,0 +1,37 @@
+**Game name:**
+
+Sydney 2000 (USA)
+
+**Game ID:**
+
+SLUS-01177
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8354DEDFC854F28B5255F10E9F04D483AB034FD0
+
+BIN (TRACK 01) MD5: 558d81489c7840a260185110c3857958
+
+BIN (TRACK 02) MD5: 842e8b57e6ccc5e54cba6abc03490305
+
+BIN (TRACK 03) MD5: b0104f817ff0c62807f0c2aeb36a67fd
+
+BIN (TRACK 04) MD5: a354b2fec3dc8797ee08c24642c94636
+
+BIN (TRACK 05) MD5: a78bdbbaee8fe13f53ea071ef0ded4ab
+
+BIN (TRACK 06) MD5: 08ced038fb46c9e2a053a1d192af0c13
+
+BIN (TRACK 07) MD5: 3a46e6082ea4432ac4a6fd7b912d648a
+
+BIN (TRACK 08) MD5: 6743f926867e7a1092c7ae7af86c0dde
+
+BIN (TRACK 09) MD5: df31fee8b802d4bcb53ca53b702f22ca
+
+**Description:**
+
+Starts at main menu with "HEAD TO HEAD" option highlighted.

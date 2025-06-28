@@ -1,0 +1,11 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*15 Channeling Rings]
+301CE847 000F
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*15 Tech Rings]
+301CE948 000F

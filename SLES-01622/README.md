@@ -1,0 +1,24 @@
+**Game name:**
+
+UEFA Champions League - Season 1998-99 (Europe)
+
+**Game ID:**
+
+SLES-01622
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3955B9BF8505ED736B011BAF600280216C33DF98
+
+BIN (TRACK 01) MD5: 7817e807c2e3ead3638895a97c9ff60a
+
+BIN (TRACK 02) MD5: 8ff7b1e21339acb9f813debe207099ed
+
+BIN (TRACK 03) MD5: 4faaacaa5c288310941419243b50aeb2
+
+**Description:**
+

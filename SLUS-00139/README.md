@@ -1,0 +1,33 @@
+**Game name:**
+
+Strike Point (USA)
+
+**Game ID:**
+
+SLUS-00139
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 268A9912C0ED18568FE61A897AC09B8FDB4D69C8
+
+BIN (TRACK 01) MD5: 5eab5c25d6baaeb825503af387cb05cf
+
+BIN (TRACK 02) MD5: 2ff6d62d89af45dbe0d3470ce57c06dd
+
+BIN (TRACK 03) MD5: b080e5c53e2a09aeb1fbdf788ab4e583
+
+BIN (TRACK 04) MD5: 5b962e34546add06aefe21e1c005e11a
+
+BIN (TRACK 05) MD5: af0fc7219e856dc81f8fbbff51909ff2
+
+BIN (TRACK 06) MD5: f3e03297f0e5286fe470365187cfc2d6
+
+BIN (TRACK 07) MD5: 0ea616ca02f69af5784b500c557fd339
+
+**Description:**
+
+Starts at main menu with "2 PLAYER GAME" option highlighted.

@@ -1,0 +1,37 @@
+**Game name:**
+
+Renegade Racers (USA)
+
+**Game ID:**
+
+SLUS-01012
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EBC511FC01D7CCF6AED33CC378744519645158A1
+
+BIN (TRACK 01) MD5: 44c6ab1e2832b9f1b363a369e052ae84
+
+BIN (TRACK 02) MD5: c4a8a3e3f2d4fe7a0414c9efb0176591
+
+BIN (TRACK 03) MD5: d15569bb382c398f10710fe9bb659cd7
+
+BIN (TRACK 04) MD5: a476bc572c10b6869be4dc9ad851fd52
+
+BIN (TRACK 05) MD5: 667697e90ea0d29827ede7e832847bad
+
+BIN (TRACK 06) MD5: 85687c54af799a880671d0c6d9c89584
+
+BIN (TRACK 07) MD5: 07589a0692a29aeb6f6c5a7eb9c9e7a9
+
+BIN (TRACK 08) MD5: c4a8a3e3f2d4fe7a0414c9efb0176591
+
+BIN (TRACK 09) MD5: 2c62c4b96e4756d5e9a6fd721778ebcd
+
+**Description:**
+
+All characters unlocked. Starts at main menu with "Quick Race" option highlighted.

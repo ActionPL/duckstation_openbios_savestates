@@ -1,0 +1,43 @@
+**Game name:**
+
+Star Wars - Demolition (USA)
+
+**Game ID:**
+
+SLUS-01183
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D8E95E2FCA9DC19572521DB83D1CAC9743E143BA
+
+BIN (TRACK 01) MD5: a81d16b097b46196d2ef9ed975eb0d44
+
+BIN (TRACK 02) MD5: 327903ff75a9edbc57ed5464ba38d6c9
+
+BIN (TRACK 03) MD5: d60da29bc37100e91899a8d6709ac65e
+
+BIN (TRACK 04) MD5: cca7952fc7cf6b8e99630fe76b04e144
+
+BIN (TRACK 05) MD5: c76dd8b586543628bb0024e1e5190191
+
+BIN (TRACK 06) MD5: 4b9afac2ca2fced514114c9c6bf74fcd
+
+BIN (TRACK 07) MD5: 035f58b1f534bde28ab50a171950b5a8
+
+BIN (TRACK 08) MD5: 80691df93dbae71fcf5d0ccd8fe4b47d
+
+BIN (TRACK 09) MD5: a2fbe2b042cf5b8842b5006143e19efc
+
+BIN (TRACK 10) MD5: 06854efaf91dbd0ea2310e6869d88dc1
+
+BIN (TRACK 11) MD5: 39509e8022dbde9e5dea2f31ccade338
+
+BIN (TRACK 12) MD5: 976e042842648079188f9f0d2f84b029
+
+**Description:**
+
+All characters unlocked. Starts at main menu with "2 PLAYER GAMES" option highlighted.
