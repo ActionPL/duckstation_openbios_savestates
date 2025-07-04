@@ -28,4 +28,4 @@ BIN (TRACK 06) MD5: 01900b517eba213dad871f5992b577a9
 
 **Description:**
 
-Starts at title screen.
+Starts at main menu with "EXHIBITION RACE" option highlighted.
