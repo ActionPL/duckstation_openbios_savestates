@@ -4,7 +4,7 @@ Warpath - Jurassic Park (USA)
 
 **Game ID:**
 
-slus-00976
+SLUS-00976
 
 **Game format:**
 
