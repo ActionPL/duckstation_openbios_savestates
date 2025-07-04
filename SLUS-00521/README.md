@@ -1,0 +1,33 @@
+**Game name:**
+
+NASCAR 98 (USA)
+
+**Game ID:**
+
+SLUS-00521
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A6F8629A8BD752726DC31E95958FE03BFDA09D5B
+
+BIN (TRACK 01) MD5: 468e82fd40d75e875d071151b1538835
+
+BIN (TRACK 02) MD5: 28e3edcf669a538a684fb8c2006dc639
+
+BIN (TRACK 03) MD5: 8e29dfab42cfec281fad417640bdf33e
+
+BIN (TRACK 04) MD5: e6272dd56ee73290b654b03f1b7a0582
+
+BIN (TRACK 05) MD5: efb7ddc68d86919accf3df3c7c5759f0
+
+BIN (TRACK 06) MD5: 7d5cc96396f379a43cacf041a23c0245
+
+BIN (TRACK 07) MD5: 007f2acd7d6e1103cab7a48b14501d28
+
+**Description:**
+
+Starts at main menu with "SINGLE RACE" option highlitghted.
