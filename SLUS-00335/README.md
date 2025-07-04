@@ -18,4 +18,4 @@ BIN MD5: 1172a67ba5fa337bbf2f17901124949a
 
 **Description:**
 
-Starts at main menu with "" option highlighted.
+Starts at main menu with "GAME START" option highlighted.
