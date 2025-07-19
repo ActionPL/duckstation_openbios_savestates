@@ -44,4 +44,4 @@ BIN (TRACK 14) MD5: f9acf65e72983b5b9c729a24f24d412b
 
 **Description:**
 
-All characters, arenas, outfits and movies unlocked. Starts at main menu with "VERSUS MODE" highlighted. Thrill Kill Plus made by TG. 
+All characters, arenas, outfits and movies unlocked. Starts at main menu with "VERSUS MODE" option highlighted. Thrill Kill Plus made by TG. 
