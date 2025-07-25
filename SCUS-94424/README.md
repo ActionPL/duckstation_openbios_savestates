@@ -12,10 +12,10 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: 990115eb22e748d2b9fdab103c76377195501bbb
+CHD DATA SHA1: 990115EB22E748D2B9FDAB103C76377195501BBB
 
-BIN MD5: fa5b8e192dbfef77fb2fe3416a1b9469
+BIN (TRACK 01) MD5: fa5b8e192dbfef77fb2fe3416a1b9469
 
 **Description:**
 
-All characters and secrets unlocked. Time limit: 60 seconds, Match points: 3. Starts at main menu with "VS" mode highlighted.
+All characters and secrets unlocked Including  the 4th Outfit. Time limit: 60 seconds, Match points: 3, Damage Level: 2. Starts at main menu with "VS" mode highlighted. 
