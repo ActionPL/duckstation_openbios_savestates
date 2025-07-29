@@ -1,6 +1,6 @@
 **Game name:**
 
-SCUS_94199
+Bloody Roar (USA)
 
 **Game ID:**
 
