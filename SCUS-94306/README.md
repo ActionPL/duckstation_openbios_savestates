@@ -40,4 +40,4 @@ BIN (TRACK 12) MD5: 4f3b863445ca2478668d52811f5b106c
 
 **Description:**
 
-All hiddden levels enabled. Starts at "TWO PLAYER" mode screen.
+All hiddden characters enabled. Starts at "TWO PLAYER" mode screen.
