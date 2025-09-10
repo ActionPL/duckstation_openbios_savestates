@@ -31,4 +31,4 @@ New since v1.1:
 - Added more music to 2P VS and VS CPU modes
 - Minor adjustments to respawn combos off, non-gameplay RNG, pause menu text
 
-Note to Action: Because of the new music, the ROM size is bigger than the original, and thus a PPF patch isn't possible. If you have any issues with the patch, just let me know. I also don't want v1.1 removed from the game list just yet, in case any issues arise with the new release. I'll submit another PR to add it to skip.txt in about a week or two.
+Note to Action: Because of the new music, the ROM size is bigger than the original, and thus a PPF patch isn't possible. This repo seems to have a 25MB upload limit, so I also couldn't upload it here directly, so [here's a link to the patch on my repo's releases page](https://github.com/bigger0gamer/TrueOGEdition/releases/download/v2RC1/TRUE-OG201.xdelta) where you can find it. If you have any issues with the patch, just let me know. I also don't want v1.1 removed from the game list just yet, in case any issues arise with the new release. I'll submit another PR to add it to skip.txt in about a week or two.
