@@ -42,4 +42,4 @@ BIN (TRACK 13) MD5: 3b36258f6d4d9baade581ed3017effee
 
 **Description:**
 
-All cars, tracks and secrets unlocked. Starts in 2 PLAYER mode with "VERSUS" option highlighted.
+Everything unlocked. Starts in 2 PLAYER mode with "VERSUS" option highlighted.
