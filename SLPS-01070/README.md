@@ -20,4 +20,4 @@ BIN (TRACK 02) MD5: 342186A92A6D67C4DDC700B2BEEDDADE
 
 **Description:**
 
-All characters and secrets unlocked. Beast Rave enabled for revamp combo system. 3 Rounds , Damage level 2 and 60 seconds match. Starts at main menu with "VS" mode highlighted. Controller config was set to Bloody Roar 2 Standard . Side Step was disabled because Guard Escape exist . The button for RAVE activation was disabled because too many broken infinite !
+All characters and secrets unlocked. Beast Rave enabled for revamp combo system. 3 Rounds, Damage level 2 and 60 seconds match. Starts at main menu with "VS" mode highlighted. Controller config was set to Bloody Roar 2 Standard. Side step was disabled because Guard Escape exist. The button for RAVE activation was disabled because too many broken infinite!
