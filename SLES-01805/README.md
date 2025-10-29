@@ -1,0 +1,41 @@
+**Game name:**
+
+Hugo 2 (Europe)
+
+**Game ID:**
+
+SLES-01805
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 365A8994D62FF0655DDED9068CE34CB1179B8FE7
+
+BIN (TRACK 01) MD5: f23be89deba701f98d029aaa1bc3561b
+
+BIN (TRACK 02) MD5: da7a978dc0f1001cea7fe033dfc68cdb
+
+BIN (TRACK 03) MD5: 5cb6f9a125ce9d384b74f2bb62999d27
+
+BIN (TRACK 04) MD5: 712a95580cd80631ecc5d4a68009bc4e
+
+BIN (TRACK 05) MD5: b6cfda80c7cbdbba999939250dcd7ac4
+
+BIN (TRACK 06) MD5: b48f16fb2ce1523fc16ff9ebf30792f1
+
+BIN (TRACK 07) MD5: f2fc15676135bdad35c02d37baf99820
+
+BIN (TRACK 08) MD5: f4fbdf40c42efefd02e51c5f7f83c3e6
+
+BIN (TRACK 09) MD5: cb91379271f7a12fb0d0757c6726319f
+
+BIN (TRACK 10) MD5: 5390a712cf7a91b70b176fda73aa2a5f
+
+BIN (TRACK 11) MD5: 582388bb43094c9ef0c88f1c1aea0e0a
+
+**Description:**
+
+Everything unlocked. Starts at main menu with "practice" option highlighted.
