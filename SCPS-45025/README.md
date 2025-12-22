@@ -4,7 +4,7 @@ Tobal 2 (Japan) (Rev 1)
 
 **Game ID:**
 
-SCPS-45025
+SLPM-86033
 
 **Game format:**
 
