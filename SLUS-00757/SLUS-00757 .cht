@@ -1,0 +1,36 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Widescreen 16-9]
+81055DF4 4CCC
+81055DF8 CCCD
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*60fps]
+800895AA 2400
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Cheats Unlocked]
+800B35CC 0303
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Gravity]
+800AEB94 0008
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Rapid Fire]
+D00CBFE0 0001
+300CBFE0 0002
+D00CC5E0 0001
+300CC5E0 0002
+D00C7F36 0006
+300C7F36 0007
+
