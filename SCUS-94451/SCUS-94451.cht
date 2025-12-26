@@ -1,0 +1,11 @@
+#type=Gameshark
+#activation=EndFrame
+[Unlock All Cheats + Multi-Player Stuff]
+9011F6A4 FFFFFFFF
+
+#type=Gameshark
+#activation=EndFrame
+[*Widescreen 16-9]
+80120968 0C00
+80120F08 0C00
+
