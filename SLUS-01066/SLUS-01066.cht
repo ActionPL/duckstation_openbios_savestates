@@ -4,3 +4,9 @@
 [*60 FPS]
 3003CBA8 0000
 
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Widescreen 16-9 (Vert-)]
+800D8640 1333
+
