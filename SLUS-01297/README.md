@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-Final Fantasy IX (USA) (Disc 4) (Rev 1)
+Final Fantasy IX (USA, Canada) (Disc 4) (Rev 1)
 
 **Game ID:**
 
