@@ -1,6 +1,6 @@
 **Game name:**
 
-NFL GameDay 2003 (USA)
+NFL GameDay 2003 (USA, Canada)
 
 **Game ID:**
 
