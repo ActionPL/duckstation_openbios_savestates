@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It)
+Wipeout 3 - Special Edition (Europe) (En,Fr,De,Es,It)
 
 **Game ID:**
 
