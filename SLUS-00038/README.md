@@ -1,6 +1,6 @@
 **Game name:**
 
-FIFA Soccer 96 (USA)
+FIFA Soccer 96 (USA) (En,Fr,De,Es,It,Sv)
 
 **Game ID:**
 
