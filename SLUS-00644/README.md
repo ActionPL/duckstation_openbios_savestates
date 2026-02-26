@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-World Cup 98 (USA)
+World Cup 98 (USA) (En,Fr,De,Es,Nl,Sv,Da)
 
 **Game ID:**
 
