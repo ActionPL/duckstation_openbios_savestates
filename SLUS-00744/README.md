@@ -1,6 +1,6 @@
 **Game name:**
 
-Formula 1 98 (USA) (En,Fr,De,Es,It,Fi)
+Formula 1 98 (USA, Canada) (En,Fr,De,Es,It,Fi)
 
 **Game ID:**
 
