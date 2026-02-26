@@ -1,6 +1,6 @@
 **Game name:**
 
-FIFA Soccer 2003 (USA)
+FIFA Soccer 2003 (USA) (En,Es)
 
 **Game ID:**
 
