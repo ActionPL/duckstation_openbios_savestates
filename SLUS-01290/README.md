@@ -1,6 +1,6 @@
 **Game name:**
 
-F1 Championship Season 2000 (USA)
+F1 Championship Season 2000 (USA) (En,Fr,Es)
 
 **Game ID:**
 
