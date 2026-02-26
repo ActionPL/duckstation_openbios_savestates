@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-VR Soccer '96 (USA)
+VR Soccer '96 (USA, Canada)
 
 **Game ID:**
 
