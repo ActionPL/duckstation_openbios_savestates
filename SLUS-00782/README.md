@@ -1,6 +1,6 @@
 **Game name:**
 
-FIFA 99 (USA)
+FIFA 99 (USA) (En,Fr,De,Es,Nl,Sv)
 
 **Game ID:**
 
