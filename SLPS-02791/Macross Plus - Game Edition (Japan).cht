@@ -1,0 +1,69 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Infinite Armor Activate after starting a mission and deactivate after finish]
+801297DC 4132
+80129824 4132
+8012986C 4132
+801298B4 4132
+801298FC 4132
+80129944 4132
+8012998C 4132
+801299D4 4132
+80129A1C 4132
+80129A64 4132
+80129AAC 4132
+80129AF4 4132
+80129B3C 4132
+801A2844 4132
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Does not decrease vernier gauge]
+A61571D2 4A0040
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Does not decrease bullet]
+A615B67C 10000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[It does not increase TIME]
+A6152D1C 10000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Enemy destroyed Press Select Button]
+D01A1458 0100
+801A28FC 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Does not decrease HP]
+A6152CE2 460040
+A6150E22 500040
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[All aircraft selectable]
+301F3B0D 0002
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[MOVIE fully open]
+301F3B25 0010
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Widescreen 16-9]
+801FB140 0C00
+
