@@ -1,0 +1,131 @@
+#group=Items
+#type=Gameshark
+#activation=Manual
+[Off]
+301FC8F2 0000
+
+#group=Items
+#type=Gameshark
+#activation=Manual
+[On]
+301FC8F2 0001
+
+#group=Hazards
+#type=Gameshark
+#activation=Manual
+[New No Hazards]
+301FC8F1 0000
+
+#group=Hazards
+#type=Gameshark
+#activation=Manual
+[Old No Hazards]
+301FC8F1 0001
+
+#group=Hazards
+#type=Gameshark
+#activation=Manual
+[On]
+301FC8F1 0002
+
+#group=Physics
+#type=Gameshark
+#activation=Manual
+[No Ice]
+301FC8F0 0000
+
+#group=Physics
+#type=Gameshark
+#activation=Manual
+[Normal]
+301FC8F0 0001
+
+#group=Physics
+#type=Gameshark
+#activation=Manual
+[All Ice]
+301FC8F0 0002
+
+#group=Respawn Combos
+#type=Gameshark
+#activation=Manual
+[Off]
+301FC8F3 0000
+
+#group=Respawn Combos
+#type=Gameshark
+#activation=Manual
+[On]
+301FC8F3 0001
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[8 Frames]
+301FC8F7 0001
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[7 Frames]
+301FC8F7 0003
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[6 Frames]
+301FC8F7 0004
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[5 Frames]
+301FC8F7 0005
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[4 Frames]
+301FC8F7 0000
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[3 Frames]
+301FC8F7 0006
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[2 Frames]
+301FC8F7 0002
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[1 Frame]
+301FC8F7 0007
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[0 Frames]
+301FC8F7 0008
+
+#group=TOLockdown
+#type=Gameshark
+#activation=Manual
+[True OG Music in TOLockdown]
+301FCBD0 0023
+
+#group=TOLockdown
+#type=Gameshark
+#activation=Manual
+[US + JP Music in TOLockdown]
+301FCBD0 0010
+
+#group=TOLockdown
+#type=Gameshark
+#activation=Manual
+[US Music in TOLockdown]
+301FCBD0 000A
