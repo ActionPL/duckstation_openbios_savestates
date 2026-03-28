@@ -1,0 +1,20 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Widescreen 16-9]
+801FB140 0C00
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[All aircraft selectable]
+301F3B0D 0002
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[MOVIE fully open]
+301F3B25 0010
+
+
+
