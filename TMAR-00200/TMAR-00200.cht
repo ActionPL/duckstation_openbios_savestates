@@ -1,0 +1,28 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Access All Characters]
+D007D968 12C8
+8007D95C 1000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*All Worlds]
+8003893C 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[True Immortal (Hard Difficulty in Tournament)]
+8005A344 C701
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Supreme Difficulty (Deathmatch Only)]
+D21BB57E 0028
+801BB57E FFFF
+8005A364 0007
+D005A778 0065
+8005A364 00FF
