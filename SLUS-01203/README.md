@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-Army Men - World War - Land, Sea, Air (USA)
+Army Men - World War - Land, Sea, Air (USA, Canada)
 
 **Game ID:**
 

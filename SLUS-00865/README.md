@@ -1,6 +1,6 @@
 **Game name:**
 
-WipEout 3 (USA)
+Wipeout 3 (USA)
 
 **Game ID:**
 

@@ -1,6 +1,6 @@
 **Game name:**
 
-Tetris with Card Captor Sakura - Eternal Heart (Japan)
+Tetris with Cardcaptor Sakura - Eternal Heart (Japan)
 
 **Game ID:**
 

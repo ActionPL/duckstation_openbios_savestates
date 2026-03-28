@@ -1,6 +1,6 @@
 **Game name:**
 
-FIFA Soccer 97 (USA)
+FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv)
 
 **Game ID:**
 

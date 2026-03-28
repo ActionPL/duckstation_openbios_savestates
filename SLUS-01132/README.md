@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-Army Men - Air Attack 2 (USA)
+Army Men - Air Attack 2 (USA, Canada)
 
 **Game ID:**
 

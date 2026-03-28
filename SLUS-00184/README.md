@@ -1,6 +1,6 @@
 **Game name:**
 
-Return Fire (USA)
+Return Fire (USA) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar)
 
 **Game ID:**
 

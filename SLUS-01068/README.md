@@ -1,6 +1,6 @@
 **Game name:**
 
-NASCAR Rumble (USA)
+NASCAR Rumble (USA, Canada)
 
 **Game ID:**
 

@@ -18,4 +18,4 @@ BIN MD5: 6c1c1ea5b222e0c08fe208517d51af2f
 
 **Description:**
 
-Starts at title screen.
+Starts at main menu - 4 player cheat enabled.
