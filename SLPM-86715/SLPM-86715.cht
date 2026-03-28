@@ -1,3 +1,9 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Fix HUD]
+80091BE8 0300
+
 #group=Play as Boss (Select + Square)
 #type=Gameshark
 #activation=EndFrame
