@@ -1,0 +1,82 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[25% Heal Transformations (Both Players)]
+80057540 0032
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[50% Heal Transformations (Both Players)]
+80057540 0064
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Full Heal Transformations (Both Players)]
+80057540 7FFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Amount of Rounds (3) (Works in vs CPU & Team Battle Modes]
+80085A56 0003
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Team battle Mode Fix (Auto-Return to Team Battle Menu instead Main Menu)]
+D0085AB0 0000
+D0085A48 0000
+D3085AC4 0000
+D2085AC4 0008
+D1085CF8 FFFF
+80085AB0 0005
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Health Handicap (2 is Default)]
+80072FF8 0004
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 Health Handicap (2 is Default)]
+80072FFA 0004
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Heroicness! Restless Battle (Remove Delay Between Attacks)]
+80085A4A 0020
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Hardest CPU]
+30091334 0003
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 CPU Cotrolled]
+80091036 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Player Controlled]
+80091036 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 CPU Controlled]
+800910E2 0101
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 Player Controlled]
+800910E2 0100
