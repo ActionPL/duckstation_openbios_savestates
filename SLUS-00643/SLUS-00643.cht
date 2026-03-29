@@ -107,7 +107,7 @@ A71C309C 10000C00
 #group=Ungrouped
 #type=Gameshark
 #activation=EndFrame
-[Cpu Spawns in Any Multiplayer Mode (It can freeze the game sometimes, do a savestate with it)]
+[Cpu Spawns in Any Multiplayer Mode (It can freeze sometimes, do a savestate with it)]
 301B3965 0001
 
 #group=Ungrouped
