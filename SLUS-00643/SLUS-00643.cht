@@ -7,6 +7,12 @@
 #group=Ungrouped
 #type=Gameshark
 #activation=EndFrame
+[60 FPS]
+801C337C 003C
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
 [*Widescreen 16-9]
 A71C2E5C 10000C00
 A71C2F1C 10000C00
@@ -14,3 +20,135 @@ A71C2F7C 10000C00
 A71C303C 10000C00
 A71C309C 10000C00
 
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Enable Goliath]
+301B39A8 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Enable Nightshade]
+301B39A9 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Enable Alien Saucer]
+301B39AB 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Enable Helicopter]
+301B39AC 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Enable Big Daddy (Only Available Challenge Mode On Nuke York Stage)]
+301B39AA 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Enable Funtopia]
+301B39A6 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Enable Gulch]
+301B39A7 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Tourist's Maximum Payment value (For All)]
+80144964 7FFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Initial Cash per Photo(Both Players)]
+801DEB38 0BB8
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Bonus Cash Per Photo (Accumulative) (Both Players)]
+801DEB3C 01F4
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Maximum Photo OPs]
+801DEFB4 FFFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Amount of Cash per Pick-Up (Both Players)]
+8010E248 03E8
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Max Starting Cash (2P Challenge Mode) (Both Players)]
+8012C0E8 7FFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Max Starting Cash (1P Challenge Mode)]
+8012C160 7FFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Cpu Spawns in Any Multiplayer Mode (It can freeze the game sometimes, do a savestate with it)]
+301B3965 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Amount of Enemies]
+801DEF74 0000
+801DEF70 0000
+
+#group=CPU1 Codes
+#type=Gameshark
+#activation=EndFrame
+[CPU1 Infinite Cash]
+801D98F4 FFFF
+
+#group=CPU2 Codes
+#type=Gameshark
+#activation=EndFrame
+[CPU2 Infinite Cash]
+801DA24C FFFF
+
+#group=CPU3 Codes
+#type=Gameshark
+#activation=EndFrame
+[CPU3 Infinite Cash]
+801DB4FC FFFF
+
+#group=CPU4 Codes
+#type=Gameshark
+#activation=EndFrame
+[CPU4 Infinite Cash]
+801DABA4 FFFF
+
+#group=CPU5 Codes
+#type=Gameshark
+#activation=EndFrame
+[CPU5 Infinite Cash]
+801DBE54 FFFF
+
+#group=CPU6 Codes
+#type=Gameshark
+#activation=EndFrame
+[CPU6 Infinite Cash]
+801DC7AC FFFF
