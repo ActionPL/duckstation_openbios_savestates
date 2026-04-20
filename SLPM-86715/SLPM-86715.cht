@@ -1,0 +1,26 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Fix HUD]
+80091BE8 0300
+
+#group=Play as Boss (Select + Square)
+#type=Gameshark
+#activation=EndFrame
+[Play As Boss (Story Mode)]
+D01BE3BA 7FFE
+801FFE48 0004
+
+#group=Play as Boss (Select + Square)
+#type=Gameshark
+#activation=EndFrame
+[*Play as Boss P1 (vs 2p & vs CPu Mode)]
+D01BE3BA 7FFE
+801FFE68 0004
+
+#group=Play as Boss (Select + Square)
+#type=Gameshark
+#activation=EndFrame
+[*Play as Boss P2 (vs 2p & vs CPu Mode)]
+D01BE3E6 7FFE
+801FFEC0 0004
