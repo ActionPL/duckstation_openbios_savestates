@@ -1,0 +1,26 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Enable Minion]
+30180D05 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Enable Sweet Tooth]
+30180D04 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Widescreen 16:9 2P View 1]
+8017ED2C 10000C00
+8017ED8C 10000C00
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Widescreen 16:9 2P View 2]
+8017EE4C 10000C00
+8017EEAC 10000C00
+

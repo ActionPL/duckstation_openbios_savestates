@@ -1,0 +1,1999 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Human Players Infinite Specials]
+D00BA4A8 0101
+800BA5A0 0005
+D00C68A8 0101
+800C69A0 0005
+D00D2CA8 0101
+800D2DA0 0005
+D00DF0A8 0101
+800DF1A0 0005
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Computer Players No Specials]
+D00BA4A8 0000
+800BA5A0 0000
+D00C68A8 0000
+800C69A0 0000
+D00D2CA8 0000
+800D2DA0 0000
+D00DF0A8 0000
+800DF1A0 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Infinite Ability Points]
+A70EB21A AC822400
+A70EB2DA AC822400
+A70EB39A AC822400
+A70EAB82 AE502400
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Characters Unlocked]
+80093878 FFFF
+8009387E FFFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Match Options Unlocked]
+80093886 FFFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Entrance Music Unlocked]
+80093D28 FFFF
+80093D2C FFFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Top Left Infinite Specials]
+800BA5A0 0005
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Top Right Infinite Specials]
+800C69A0 0005
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Bottom Left Infinite Specials]
+800D2DA0 0005
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Bottom Right Infinite Specials]
+800DF1A0 0005
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[All Caw Parts Unlocked]
+90092000 FFFFFFFF
+90092004 FFFFFFFF
+90092008 FFFFFFFF
+9009200C FFFFFFFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[All Caw Parts Unlocked]
+50000802 0000
+80092000 FFFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Unlock All Wrestlers]
+80093878 FFFF
+8009387E FFFF
+80093880 FFFF
+
+#group=Advanced Enable All Wrestlers
+#type=Gameshark
+#activation=EndFrame
+[Part 1 (Must Always Be On)]
+A60A08F8 20006942
+A60A0B2C 20006942
+A60A119C 20006942
+A60A25C4 20006942
+A60A3C48 20006942
+A60A6A08 20006942
+
+#group=Advanced Enable All Wrestlers
+#type=Gameshark
+#activation=EndFrame
+[Part 2 (Must Always Be On)]
+A60A0BE8 2000654B
+A60A0E1C 2000654B
+A60A148C 2000654B
+A60A28B4 2000654B
+A60A3F38 2000654B
+A60A6CF8 2000654B
+
+#group=Advanced Enable All Wrestlers
+#type=Gameshark
+#activation=EndFrame
+[Part 3 (Must Always Be On)]
+50000402 0000
+80093878 FFFF
+30093880 000F
+E0096318 0007
+30096366 0000
+E0096324 0007
+30096366 0000
+E0096330 0007
+30096366 0000
+E009633C 0007
+30096366 0000
+
+#group=Advanced Enable All Wrestlers
+#type=Gameshark
+#activation=EndFrame
+[Part 4 (This Code Only Required Once)]
+50000302 0000
+80093D48 0B0B
+30093D43 000C
+50004402 0001
+8009D350 0000
+50000A02 0001
+80093DD8 00C8
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Roster Swap]
+80096D6C 0077
+080096EA 0000
+80096D70 0078
+80096EA4 0001
+80096D74 0079
+80096EA8 0002
+80096D78 0080
+80096EAC 0003
+80096D7C 0081
+80096EB0 0004
+80096D80 0082
+80096EB4 0005
+80096D84 0083
+80096EB8 0006
+80096D8C 0084
+80096EBC 0008
+80096D90 0085
+80096EC0 0009
+80096D94 0086
+80096EC4 0010
+80096D98 0087
+80096EC8 0011
+80096D9C 0088
+80096ECC 0012
+80096DA0 0089
+80096ED0 0013
+80096DA4 0090
+80096ED4 0014
+80096DA8 0091
+80096ED8 0015
+80096DAC 0092
+80096EDC 0016
+80096DB0 0093
+80096EE0 0017
+80096DB4 0094
+80096EE4 0018
+80096DB8 0095
+80096EE8 0019
+80096DBC 0096
+80096EEC 0020
+80096DC0 0097
+080096EF 0021
+80096DC4 0098
+80096EF4 0022
+80096DC8 0099
+80096EF8 0023
+80096DCC 0100
+80096EFC 0024
+80096DD0 0101
+80096F00 0025
+80096DD4 0105
+80096F10 0026
+80096DD8 0106
+80096F14 0027
+80096DDC 0107
+80096F18 0028
+80096DE0 0108
+80096F1C 0029
+80096DE4 0109
+80096F20 0030
+80096DE8 0110
+80096F24 0031
+80096DEC 0068
+80096E7C 0032
+80096DF0 0069
+80096E80 0033
+80096DF8 0070
+80096E84 0035
+80096DFC 0071
+80096E88 0036
+80096E00 0072
+80096E8C 0037
+80096E04 0073
+80096E90 0038
+80096E08 0074
+80096E94 0039
+80096E0C 0075
+80096E98 0040
+80096E10 0076
+80096E9C 0041
+80096E14 0007
+80096D88 0042
+80096E18 0034
+80096DF4 0043
+80096E1C 0102
+80096F04 0044
+80096E20 0103
+80096F08 0045
+80096E24 0104
+80096F0C 0046
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Linkable Combo Strikes]
+90049B50 24020014
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Fast Entering in the Royale Battle]
+8008C140 0000
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Widescreen 16-9 (In-Game/Demo)]
+80021668 0C00
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Widescreen 16-9 (Create A Superstar)]
+80110DF4 0C00
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Widescreen 16-9 (Create A Taunt)]
+80100520 0C00
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 1]
+30092020 0000
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 2]
+30092020 0001
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 3]
+30092020 0002
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 4]
+30092020 0003
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 5]
+30092020 0004
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 6]
+30092020 0005
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 7]
+30092020 0006
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 8]
+30092020 0007
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 9]
+30092020 0008
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 10]
+30092020 0009
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 11]
+30092020 000A
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 12]
+30092020 000B
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 13]
+30092020 000C
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 14]
+30092020 000D
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 15]
+30092020 000E
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 16]
+30092020 000F
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 17]
+30092020 0010
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 18]
+30092020 0011
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 19]
+30092020 0012
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Male Face Type 20]
+30092020 001F
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 1]
+30092020 0013
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 2]
+30092020 0014
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 3]
+30092020 0015
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 4]
+30092020 0016
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 5]
+30092020 0017
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 6]
+30092020 0018
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 7]
+30092020 0019
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 8]
+30092020 001A
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 9]
+30092020 001B
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 10]
+30092020 001C
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 11]
+30092020 001D
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 12]
+30092020 001E
+
+#group=Appearance/Slot 1/Figure/Face Type
+#type=Gameshark
+#activation=EndFrame
+[Female Face Type 13]
+30092020 0020
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 1]
+30092021 0000
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 2]
+30092021 0001
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 3]
+30092021 0002
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 4]
+30092021 0003
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 5]
+30092021 0004
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 6]
+30092021 0005
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 7]
+30092021 0006
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 8]
+30092021 0007
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 9]
+30092021 0008
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 10]
+30092021 0009
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 11]
+30092021 000A
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 12]
+30092021 000B
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 13]
+30092021 000C
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 14]
+30092021 000D
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 15]
+30092021 000E
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 16]
+30092021 000F
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 17]
+30092021 0010
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 18]
+30092021 0011
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 19]
+30092021 0012
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 20]
+30092021 0013
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Male Hair Type 21]
+30092021 0014
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 1]
+30092021 001F
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 2]
+30092021 0020
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 3]
+30092021 0021
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 4]
+30092021 0022
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 5]
+30092021 0023
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 6]
+30092021 0024
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 7]
+30092021 0025
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 8]
+30092021 0026
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 9]
+30092021 0027
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 10]
+30092021 0028
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 11]
+30092021 0029
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 12]
+30092021 002A
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[Female Hair Type 13]
+30092021 002B
+
+#group=Appearance/Slot 1/Figure/Hair Type
+#type=Gameshark
+#activation=EndFrame
+[No Hair/Invisible Hair]
+30092021 002C
+
+#group=Appearance/Slot 1/Figure/Upper Body
+#type=Gameshark
+#activation=EndFrame
+[Male Normal 1]
+300920CC 0000
+
+#group=Appearance/Slot 1/Figure/Upper Body
+#type=Gameshark
+#activation=EndFrame
+[Male Normal 2]
+300920CC 0001
+
+#group=Appearance/Slot 1/Figure/Upper Body
+#type=Gameshark
+#activation=EndFrame
+[Male Normal 3]
+300920CC 0007
+
+#group=Appearance/Slot 1/Figure/Upper Body
+#type=Gameshark
+#activation=EndFrame
+[Male Gown 1]
+300920CC 0008
+
+#group=Appearance/Slot 1/Figure/Upper Body
+#type=Gameshark
+#activation=EndFrame
+[Male Gown 2]
+300920CC 0009
+
+#group=Appearance/Slot 1/Figure/Upper Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal 1]
+300920CC 0002
+
+#group=Appearance/Slot 1/Figure/Upper Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal 2]
+300920CC 0003
+
+#group=Appearance/Slot 1/Figure/Upper Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal 3]
+300920CC 0004
+
+#group=Appearance/Slot 1/Figure/Upper Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal 4]
+300920CC 0005
+
+#group=Appearance/Slot 1/Figure/Upper Body
+#type=Gameshark
+#activation=EndFrame
+[Female Gown]
+300920CC 0006
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 1]
+300920CD 0000
+300920CE 0000
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 2]
+300920CD 0006
+300920CE 0006
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 3]
+300920CD 0007
+300920CE 0007
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 4]
+300920CD 0008
+300920CE 0008
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 5]
+300920CD 0009
+300920CE 0009
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 6]
+300920CD 000A
+300920CE 000A
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 7]
+300920CD 000B
+300920CE 000B
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 8]
+300920CD 000C
+300920CE 000C
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 9]
+300920CD 000D
+300920CE 000D
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 10]
+300920CD 000E
+300920CE 000E
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 11]
+300920CD 000F
+300920CE 000F
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 12]
+300920CD 0010
+300920CE 0010
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 13]
+300920CD 0011
+300920CE 0011
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 14]
+300920CD 0012
+300920CE 0012
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Fingers 15]
+300920CD 0013
+300920CE 0013
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male MMA Gloves]
+300920CD 0001
+300920CE 0001
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Boxing Gloves]
+300920CD 0002
+300920CE 0002
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Male Large Boxing Gloves]
+300920CD 0022
+300920CE 0022
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 1]
+300920CD 0003
+300920CE 0003
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 2]
+300920CD 0014
+300920CE 0014
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 3]
+300920CD 0015
+300920CE 0015
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 4]
+300920CD 0016
+300920CE 0016
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 5]
+300920CD 0017
+300920CE 0017
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 6]
+300920CD 0018
+300920CE 0018
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 7]
+300920CD 0019
+300920CE 0019
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 8]
+300920CD 001A
+300920CE 001A
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 9]
+300920CD 001B
+300920CE 001B
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 10]
+300920CD 001C
+300920CE 001C
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 11]
+300920CD 001D
+300920CE 001D
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 12]
+300920CD 001E
+300920CE 001E
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 13]
+300920CD 001F
+300920CE 001F
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 14]
+300920CD 0020
+300920CE 0020
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Fingers 15]
+300920CD 0021
+300920CE 0021
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female MMA Gloves]
+300920CD 0004
+300920CE 0004
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[Female Boxing Gloves]
+300920CD 0005
+300920CE 0005
+
+#group=Appearance/Slot 1/Upper Body/Hands
+#type=Gameshark
+#activation=EndFrame
+[No Hands/Invisible Hands]
+300920CD 0023
+300920CE 0023
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Male Normal 1]
+30092076 0000
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Male Normal +K]
+30092076 0003
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Male Normal 2]
+30092076 001C
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Skirt]
+30092076 0001
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Male Normal Skirt +K]
+30092076 0005
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Male Pants]
+30092076 0002
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Male Pants+K]
+30092076 0004
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Male Long Skirt]
+30092076 0006
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Male Long Skirt +K]
+30092076 0007
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal 1]
+30092076 0008
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal +Heel]
+30092076 0009
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal +Boots]
+30092076 000B
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal +K]
+30092076 0011
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Skirt]
+30092076 0010
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Skirt +Heel]
+30092076 000A
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Skirt +Boots]
+30092076 000F
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Normal Skirt +K]
+30092076 0013
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Long Skirt 1]
+30092076 0014
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Long Skirt 1 +Heel]
+30092076 0016
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Long Skirt 1 +Boots]
+30092076 0017
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Long Skirt 1 +K]
+30092076 0018
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Long Skirt 2]
+30092076 0015
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Long Skirt 2 +Heel]
+30092076 0019
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Long Skirt 2 +Boots]
+30092076 001A
+
+#group=Appearance/Slot 1/Figure/Lower Body
+#type=Gameshark
+#activation=EndFrame
+[Female Long Skirt 2 +K]
+30092076 001B
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Height (1000 is Default)]
+80092122 1000
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Head X (80 is Default)]
+3009214A 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Head Y (80 is Default)]
+3009212A 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Head Z (80 is Default)]
+3009216A 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Neck X (80 is Default)]
+30092149 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Neck Y (80 is Default)]
+30092129 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Neck Z (80 is Default)]
+30092169 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Chest X (80 is Default)]
+30092148 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Chest Y (80 is Default)]
+30092128 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Chest Z (80 is Default)]
+30092168 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Abdomen X (80 is Default)]
+30092147 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Abdomen Y (80 is Default)]
+30092127 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Abdomen Z (80 is Default)]
+30092167 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Waist X (80 is Default)]
+30092146 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Waist Y (80 is Default)]
+30092126 00A0
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Waist Z (80 is Default)]
+30092166 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Shoulders X (80 is Default)]
+3009214B 0080
+30092152 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Shoulders Y (80 is Default)]
+3009212B 0080
+30092132 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Shoulders Z (80 is Default)]
+3009216B 0080
+30092172 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Deltoids X (80 is Default)]
+3009214D 0080
+30092154 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Deltoids Y (80 is Default)]
+3009212D 0080
+30092134 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Deltoids Z (80 is Default)]
+3009216D 0080
+30092174 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Arms X (80 is Default)]
+3009214C 0080
+30092153 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Arms Y (80 is Default)]
+3009212C 0080
+30092133 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Arms Z (80 is Default)]
+3009216C 0080
+30092173 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Elbows X (80 is Default)]
+3009214F 0080
+30092156 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Elbows Y (80 is Default)]
+3009212F 0080
+30092136 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Elbows Z (80 is Default)]
+3009216F 0080
+30092176 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Forearms X (80 is Default)]
+30092150 00A0
+30092157 00A0
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Forearms Y (80 is Default)]
+30092130 0040
+30092137 0040
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Forearms Z (80 is Default)]
+30092170 00A0
+30092177 00A0
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Wrists X (80 is Default)]
+3009214E 0080
+30092155 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Wrists Y (80 is Default)]
+3009212E 0080
+30092135 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Wrists Z (80 is Default)]
+3009216E 0080
+30092175 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Hands X (80 is Default)]
+30092151 0080
+30092158 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Hands Y (80 is Default)]
+30092131 0080
+30092138 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Hands Z (80 is Default)]
+30092171 0080
+30092178 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Hips X (80 is Default)]
+30092159 0090
+3009215F 0090
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Hips Y (80 is Default)]
+30092139 0080
+3009213F 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Hips Z (80 is Default)]
+30092179 0090
+3009217F 0090
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Knees X (80 is Default)]
+3009215C 0080
+30092162 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Knees Y (80 is Default)]
+3009213C 0080
+30092142 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Knees Z (80 is Default)]
+3009217C 0080
+30092182 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Legs X (80 is Default)]
+3009215B 0080
+30092161 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Legs Y (80 is Default)]
+3009213B 0080
+30092141 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Legs Z (80 is Default)]
+3009217B 0080
+30092181 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Ankles X (80 is Default)]
+3009215D 0080
+30092163 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Ankles Y (80 is Default)]
+3009213D 0080
+30092143 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Ankles Z (80 is Default)]
+3009217D 0080
+30092183 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Feets X (80 is Default)]
+3009215E 0080
+30092164 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Feets Y (80 is Default)]
+3009213E 0080
+30092144 0080
+
+#group=Appearance/Slot 1/Figure (All Y Axis Displays Wrong in The Editor)
+#type=Gameshark
+#activation=EndFrame
+[Feets Z (80 is Default)]
+3009217E 0080
+30092184 0080
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Head Skin Color Variation (00 is Default, Excludes Eye Line & Mouth)]
+30092044 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Head Skin Color Shade (00 is Default, Excludes Eye Line & Mouth)]
+30092055 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Head Skin Color Brightness (00 is Default, Excludes Eye Line & Mouth)]
+30092066 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Eye Line Skin Color Variation (00 is Default)]
+30092045 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Eye Line Skin Color Shade (00 is Default)]
+30092056 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Eye Line Skin Color Brightness (00 is Default)]
+30092067 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Mouth Skin Color Variation (00 is Default)]
+30092046 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Mouth Skin Color Shade (00 is Default)]
+30092057 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Mouth Skin Color Brightness (00 is Default)]
+30092068 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Eye Line Texture (00 - Male Default, 44 - Female Default, FF - No Texture, Only Pupils)]
+30092023 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Eye Pupils Texture (00 is Default, 3E - Heterochromia, You Can Use One Eye Line Texture With Other Eye Pupils Textures)]
+30092025 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Eye Pupils Color Variation (00 is Default)]
+30092047 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Eye Pupils Color Shade (00 is Default)]
+30092058 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Eye Pupils Color Brightness (00 is Default)]
+30092069 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Upper Body Color Variation (00 is Default)]
+300920F1 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Upper Body Color Shade (00 is Default)]
+30092102 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Upper Body Color Brightness (00 is Default)]
+30092113 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Lower Body Color Variation (00 is Default)]
+30092099 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Lower Body Color Shade (00 is Default)]
+300920AA 0000
+
+#group=Appearance/Slot 1/Skin Colors
+#type=Gameshark
+#activation=EndFrame
+[Lower Body Color Brightness (00 is Default)]
+300920BB 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Head Skin Color Variation (Copy Paste 0x01150DC in Memory Scanner - Add Manual Address - Byte)]
+301150DC 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Head Skin Color Shade (Copy Paste 0x01150ED in Memory Scanner - Add Manual Address - Byte)]
+301150ED 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Head Skin Color Brightness (Copy Paste 0x01150FE in Memory Scanner - Add Manual Address - Byte)]
+301150FE 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Eye Line Skin Color Variation (Copy Paste 0x01150DD in Memory Scanner - Add Manual Address - Byte)]
+301150DD 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Eye Line Skin Color Shade (Copy Paste 0x01150EE in Memory Scanner - Add Manual Address - Byte)]
+301150EE 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Eye Line Skin Color Brightness (Copy Paste 0x01150FF in Memory Scanner - Add Manual Address - Byte)]
+301150FF 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Eye Line Texture (Copy Paste 0x01150BB in Memory Scanner - Add Manual Address - Byte)]
+301150BB 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[No Eye Line Texture (Not Invisible)/No Eyes (Only Pupils)]
+301150BB 00FF
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Eye Pupils (Copy Paste 0x01150BD in Memory Scanner - Add Manual Address - Byte)]
+301150BD 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Eye Pupils Color Variation (Copy Paste 0x01150DF in Memory Scanner - Add Manual Address - Byte)]
+301150DF 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Eye Pupils Color Shade (Copy Paste 0x01150F0 in Memory Scanner - Add Manual Address - Byte)]
+301150F0 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Eye Pupils Color Brightness (Copy Paste 0x0115101 in Memory Scanner - Add Manual Address - Byte)]
+30115101 0000
+0000000E 000E
+301150BD 003E
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[One Eye Pupil (For Heterochromia)]
+301150BD 003E
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[No Eye Pupils]
+301150BD 001F
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Mouth Skin Color Variation (Copy Paste 0x01150DE in Memory Scanner - Add Manual Address - Byte)]
+301150DE 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Mouth Skin Color Shade (Copy Paste 0x01150EF in Memory Scanner - Add Manual Address - Byte)]
+301150EF 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Mouth Skin Color Brightness (Copy Paste 0x0115100 in Memory Scanner - Add Manual Address - Byte)]
+30115100 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[No Mouth (Not Invisible)]
+301150BC 00FF
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Upper Body Color Variation (Copy Paste 0x0115189 in Memory Scanner - Add Manual Address - Byte)]
+30115189 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Upper Body Color Shade (Copy Paste 0x011519A in Memory Scanner - Add Manual Address - Byte)]
+3011519A 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Upper Body Color Brightness (Copy Paste 0x01151AB in Memory Scanner - Add Manual Address - Byte)]
+301151AB 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Lower Body Color Variation (Copy Paste 0x0115131 in Memory Scanner - Add Manual Address - Byte)]
+30115131 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Lower Body Color Shade (Copy Paste 0x0115142 in Memory Scanner - Add Manual Address - Byte)]
+30115142 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Lower Body Color Brightness (Copy Paste 0x0115153 in Memory Scanner - Add Manual Address - Byte)]
+30115153 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Face Type (Copy Paste 0x01150B8 in Memory Scanner - Add Manual Address - Byte)]
+301150B8 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Hair Type (Copy Paste 0x01150B9 in Memory Scanner - Add Manual Address - Byte)]
+301150B9 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Upper Body Type (Copy Paste 0x0115164 in Memory Scanner - Add Manual Address - Byte)]
+30115164 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Hand Type (Copy Paste 0x 0115165 & 0x0115166 in Memory Scanner - Add Manual Address - Byte)]
+30115165 0000
+30115166 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Lower Body Type (Copy Paste 0x011510E in Memory Scanner - Add Manual Address - Byte)]
+3011510E 0000
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Neck X (Copy Paste 0x01151E1 in Memory Scanner - Add Manual Address - Byte)]
+301151E1 0080
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Neck Z (Copy Paste 0x115201 in Memory Scanner - Add Manual Address - Byte)]
+30115201 0080
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Shoulder X (Copy Paste 0x01151E3 & 0x01151EA in Memory Scanner - Add Manual Address - Byte)]
+301151E3 0080
+301151EA 0080
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Shoulder Z (Copy Paste 0x0115203 & 0x011520A in Memory Scanner - Add Manual Address - Byte)]
+30115203 0080
+3011520A 0080
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Deltoids X (Copy Paste 0x01151E5 & 0x01151EC in Memory Scanner - Add Manual Address - Byte)]
+301151E5 0080
+301151EC 0080
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Deltoids Z (Copy Paste 0x0115205 & 0x011520C in Memory Scanner - Add Manual Address - Byte)]
+30115205 0080
+3011520C 0080
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Elbows X (Copy Paste 0x01151E7 & 0x01151EE in Memory Scanner - Add Manual Address - Byte)]
+301151E7 0080
+301151EE 0080
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Elbows Z (Copy Paste 0x0115207 & 0x011520E in Memory Scanner - Add Manual Address - Byte)]
+30115207 0080
+3011520E 0080
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Knees X (Copy Paste 0x01151F4 & 0x01151FA in Memory Scanner - Add Manual Address - Byte)]
+301151F4 0079
+301151FA 0079
+
+#group=Appearance/Editor
+#type=Gameshark
+#activation=EndFrame
+[Knees Z (Copy Paste 0x0115214 & 0x011521A in Memory Scanner - Add Manual Address - Byte)]
+30115214 0070
+3011521A 0070
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 1]
+301152CE 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 2]
+301152CF 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 3]
+301152D0 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 4]
+301152D1 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 5]
+301152D2 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 6]
+301152D3 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 7]
+301152D4 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 8]
+301152D5 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 9]
+301152D6 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 10]
+301152D7 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 11]
+301152D8 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 12]
+301152D9 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 13]
+301152DA 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 14]
+301152DB 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 15]
+301152DC 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 16]
+301152DD 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 17]
+301152DE 0000
+
+#group=Apperance/Editor/Name Modifier
+#type=Gameshark
+#activation=EndFrame
+[Digit 18]
+301152DF 0000
+
+#group=Appearace/Editor/Personality
+#type=Gameshark
+#activation=EndFrame
+[Personality 1]
+30115310 00FF
+
+#group=Appearace/Editor/Personality
+#type=Gameshark
+#activation=EndFrame
+[Personality 2]
+30115311 00FF
+
+#group=Appearace/Editor/Personality
+#type=Gameshark
+#activation=EndFrame
+[Personality 3]
+30115312 00FF
+
+#group=Appearace/Editor/Personality
+#type=Gameshark
+#activation=EndFrame
+[Personality 4]
+30115313 00FF
+
+#group=Appearace/Editor/Personality
+#type=Gameshark
+#activation=EndFrame
+[Personality 5]
+30115314 00FF
+

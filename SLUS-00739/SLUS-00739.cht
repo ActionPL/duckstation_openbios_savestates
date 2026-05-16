@@ -1,0 +1,15 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[All Weapons]
+8009C0B2 0004
+8009C0B6 0004
+8009C0DA 0004
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Unlock All Zones]
+8009F882 0050
+
+
