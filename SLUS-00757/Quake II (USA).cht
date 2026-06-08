@@ -1,0 +1,206 @@
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Infinite Health]
+800CBDA0 0064
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Have All Weapons it works, but you can not use the weapons till you get some ammo for them.]
+800C7F38 0FFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Infinite Armor]
+800C7F1E 0064
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Infinite Shotgun + Super Shotgun Ammo]
+800C7F3C 0064
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Infinite Machine Gun + Chaingun Ammo]
+800C7F3E 0064
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Infinite Grenades + Grenade Launcher Ammo]
+800C7F40 0064
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Infinite Rocket Launcher Ammo]
+800C7F42 0064
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Infinite Hyper Blaster + Bfg Ammo]
+800C7F44 0064
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Infinite Rail Gun Ammo]
+800C7F3C 0018
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Super Jump Press Square]
+D00C7DD0 8000
+800CBD86 FEC7
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Refresh Health In Level 3 Press Select+R2]
+D00C7DD0 0201
+800CC3A0 0064
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Widescreen 16-9]
+81055DF4 4CCC
+81055DF8 CCCD
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Gravity (Slightly Lower Then Common For Easy Jumping)]
+800AEB94 0008
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Rapid Fire]
+D00CBFE0 0001
+300CBFE0 0002
+D00CC5E0 0001
+300CC5E0 0002
+D00C7F36 0006
+300C7F36 0007
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[BFG10k Rapid Fire Fix]
+D00CBFE0 0002
+300CBFE4 0005
+D00CC5E0 0002
+300CC5E4 0005
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[BFG10k No Recoil Rapid Fire Fix]
+8004B790 FFFF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*60fps]
+800895AA 2400
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P1 Invisibility]
+800B352A 0004
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P2 Invisibility]
+800B354C 0004
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P3 Invisibility]
+800B356E 0004
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[P4 Invisibility]
+800B3590 0004
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[Weapon Stay ON]
+800B35D0 0001
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[*Cheats Unlocked]
+800B35CC 0303
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[No Ammo Cap Shotgun + Super Shotgun (All Players)]
+8009C81C 03E7
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[No Ammo Cap Chaingun + Machinegun (All Players)]
+8009C81E 03E7
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[No Ammo Cap Grenades + Grenade Launcher (All Players)]
+8009C820 03E7
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[No Ammo Cap Rocket Launcher (All Players)]
+8009C822 03E7
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[No Ammo Cap Hyper Blaster +BFG (All Players)]
+8009C824 03E7
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[No Ammo Cap Railgun (All Players)]
+8009C826 03E7
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[No Armor Cap (All Players)]
+3009C841 00FF
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[No Health Cap (P1,P2,P3,P4)]
+800C7F18 03E7
+800C7FF8 03E7
+800C80D8 03E7
+300C81B8 03E7
+
+#group=Ungrouped
+#type=Gameshark
+#activation=EndFrame
+[No Mega-Health Cap (All Players)]
+80036E1C 03E7
+
