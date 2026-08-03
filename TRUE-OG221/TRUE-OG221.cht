@@ -1,0 +1,180 @@
+#group=Items
+#type=Gameshark
+#activation=Manual
+[Off]
+301FC8F2 0000
+
+#group=Items
+#type=Gameshark
+#activation=Manual
+[On]
+301FC8F2 0001
+
+#group=Stage Hazards
+#type=Gameshark
+#activation=Manual
+["Competitive" (New Haz Off)]
+301FC8F1 0000
+
+#group=Stage Hazards
+#type=Gameshark
+#activation=Manual
+["Frozen" (Old Haz Off)]
+301FC8F1 0001
+
+#group=Stage Hazards
+#type=Gameshark
+#activation=Manual
+["Original" (Hazards On)]
+301FC8F1 0002
+
+#group=Physics
+#type=Gameshark
+#activation=Manual
+["Competitive" (New No Ice)]
+301FC8F0 0000
+
+#group=Physics
+#type=Gameshark
+#activation=Manual
+["Frozen" (Old No Ice)]
+301FC8F0 0001
+
+#group=Physics
+#type=Gameshark
+#activation=Manual
+["Original" (No Changes)]
+301FC8F0 0002
+
+#group=Physics
+#type=Gameshark
+#activation=Manual
+["All Ice" (Force Glacier Physics)]
+301FC8F0 0003
+
+#group=Physics
+#type=Gameshark
+#activation=Manual
+["Ice Skates" (Force Reapermon's Den Physics)]
+301FC8F0 0004
+
+#group=Respawn Combos
+#type=Gameshark
+#activation=Manual
+[Off]
+301FC8F3 0000
+
+#group=Respawn Combos
+#type=Gameshark
+#activation=Manual
+[On]
+301FC8F3 0001
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[4 Frames]
+301FC8F7 0000
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[8 Frames]
+301FC8F7 0001
+
+#group=Wakeup Invincibility
+#type=Gameshark
+#activation=Manual
+[16 Frames]
+301FC8F7 0002
+301FCFC0 0010
+
+#group=Time Limit
+#type=Gameshark
+#activation=Manual
+[2 Seconds]
+801FC8FA 0061
+
+#group=Time Limit
+#type=Gameshark
+#activation=Manual
+[5 Seconds]
+801FC8FA 0097
+
+#group=Time Limit
+#type=Gameshark
+#activation=Manual
+[10 Seconds]
+801FC8FA 012C
+
+#group=Time Limit
+#type=Gameshark
+#activation=Manual
+[50 Seconds]
+801FC8FA 05DC
+
+#group=Time Limit
+#type=Gameshark
+#activation=Manual
+[99 Seconds]
+801FC8FA 0000
+
+#group=Time Limit
+#type=Gameshark
+#activation=Manual
+[120 Seconds]
+801FC8FA 0E10
+
+#group=Time Limit
+#type=Gameshark
+#activation=Manual
+[150 Seconds]
+801FC8FA 1194
+
+#group=Rounds To Win
+#type=Gameshark
+#activation=Manual
+[2 Rounds]
+301FC8FC 0000
+
+#group=Rounds To Win
+#type=Gameshark
+#activation=Manual
+[3 Rounds]
+301FC8FC 0003
+
+#group=Meter At Round Start
+#type=Gameshark
+#activation=Manual
+[From Last Round (No Change)]
+301FC8FD 0000
+
+#group=Meter At Round Start
+#type=Gameshark
+#activation=Manual
+[Full Meter]
+301FC8FD 0001
+
+#group=Meter At Round Start
+#type=Gameshark
+#activation=Manual
+[No Meter]
+301FC8FD 0002
+
+#group=TOLockdown
+#type=Gameshark
+#activation=Manual
+[True OG Music in TOLockdown]
+301FCBD0 0023
+
+#group=TOLockdown
+#type=Gameshark
+#activation=Manual
+[US + JP Music in TOLockdown]
+301FCBD0 0010
+
+#group=TOLockdown
+#type=Gameshark
+#activation=Manual
+[US Music in TOLockdown]
+301FCBD0 000A
