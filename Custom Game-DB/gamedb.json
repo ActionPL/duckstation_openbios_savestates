@@ -491951,5 +491951,42 @@
       ]
      }
     ]
+   },
+   {
+  "serial": "D1PL-00200",
+  "name": "Diablo (USA) (En,Fr,De,Sv) [Polish Translation]",
+  "codes": [
+   "D1PL-00200"
+  ],
+  "languages": [
+   "Polish",
+   "French",
+   "German",
+   "Swedish"
+  ],
+  "publisher": "Electronic Arts / Blizzard Entertaiment",
+  "developer": "Climax Group",
+  "releaseDate": "1998-03-11",
+  "genre": "Action / RPG",
+  "minPlayers": 1,
+  "maxPlayers": 2,
+  "minBlocks": 10,
+  "maxBlocks": 10,
+  "vibration": false,
+  "multitap": false,
+  "linkCable": false,
+  "controllers": [
+   "DigitalController"
+  ],
+  "track_data": [
+   {
+    "tracks": [
+     {
+      "size": 653239776,
+      "md5": "80f3d4d299ac92bc57aee39480d13d44"
+     }
+    ]
    }
+  ]
+ }
 ]
