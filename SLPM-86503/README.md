@@ -1,6 +1,6 @@
 ﻿**Game name:**
 
-
+Dance Dance Revolution 3rd Mix (Japan)
 
 **Game ID:**
 
